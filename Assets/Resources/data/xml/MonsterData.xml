@@ -1,0 +1,194 @@
+﻿<root>
+	<MonsterData>
+		<Id_i>1</Id_i>
+		<Type_s>ZOMBIE1</Type_s>
+		<StreetModel_s>Model/streetview/Zombie01</StreetModel_s>
+		<Image_s>Image/zombie</Image_s>
+		<Icon_s>Icon/zombie</Icon_s>
+		<Description_s>sweep all zombies.</Description_s>
+		<Coin_i>10000</Coin_i>
+		<Speed_f>1.5</Speed_f>
+		<Attack_f>2</Attack_f>
+		<Hp_f>25</Hp_f>
+	</MonsterData>
+	<MonsterData>
+		<Id_i>2</Id_i>
+		<Type_s>ZOMBIE2</Type_s>
+		<StreetModel_s>Model/streetview/Zombie02</StreetModel_s>
+		<Image_s>Image/zombie</Image_s>
+		<Icon_s>Icon/zombie</Icon_s>
+		<Description_s>sweep all zombies.</Description_s>
+		<Coin_i>10000</Coin_i>
+		<Speed_f>2</Speed_f>
+		<Attack_f>4</Attack_f>
+		<Hp_f>40</Hp_f>
+	</MonsterData>
+	<MonsterData>
+		<Id_i>3</Id_i>
+		<Type_s>ZOMBIE3</Type_s>
+		<StreetModel_s>Model/streetview/Zombie03</StreetModel_s>
+		<Image_s>Image/zombie</Image_s>
+		<Icon_s>Icon/zombie</Icon_s>
+		<Description_s>sweep all zombies.</Description_s>
+		<Coin_i>10000</Coin_i>
+		<Speed_f>2.5</Speed_f>
+		<Attack_f>8</Attack_f>
+		<Hp_f>20</Hp_f>
+	</MonsterData>
+	<MonsterData>
+		<Id_i>4</Id_i>
+		<Type_s>ZOMBIE4</Type_s>
+		<StreetModel_s>Model/streetview/Zombie10</StreetModel_s>
+		<Image_s>Image/zombie</Image_s>
+		<Icon_s>Icon/zombie</Icon_s>
+		<Description_s>sweep all zombies.</Description_s>
+		<Coin_i>10000</Coin_i>
+		<Speed_f>1</Speed_f>
+		<Attack_f>10</Attack_f>
+		<Hp_f>80</Hp_f>
+	</MonsterData>
+	<MonsterData>
+		<Id_i>5</Id_i>
+		<Type_s>ZOMBIE5</Type_s>
+		<StreetModel_s>Model/streetview/Zombie04</StreetModel_s>
+		<Image_s>Image/zombie</Image_s>
+		<Icon_s>Icon/zombie</Icon_s>
+		<Description_s>sweep all zombies.</Description_s>
+		<Coin_i>10000</Coin_i>
+		<Speed_f>3</Speed_f>
+		<Attack_f>8</Attack_f>
+		<Hp_f>60</Hp_f>
+	</MonsterData>
+	<MonsterData>
+		<Id_i>6</Id_i>
+		<Type_s>ZOMBIE6</Type_s>
+		<StreetModel_s>Model/streetview/Zombie09</StreetModel_s>
+		<Image_s>Image/zombie</Image_s>
+		<Icon_s>Icon/zombie</Icon_s>
+		<Description_s>sweep all zombies.</Description_s>
+		<Coin_i>10000</Coin_i>
+		<Speed_f>2</Speed_f>
+		<Attack_f>12</Attack_f>
+		<Hp_f>100</Hp_f>
+	</MonsterData>
+	<MonsterData>
+		<Id_i>7</Id_i>
+		<Type_s>ZOMBIE7</Type_s>
+		<StreetModel_s>Model/streetview/Zombie08</StreetModel_s>
+		<Image_s>Image/zombie</Image_s>
+		<Icon_s>Icon/zombie</Icon_s>
+		<Description_s>sweep all zombies.</Description_s>
+		<Coin_i>10000</Coin_i>
+		<Speed_f>3</Speed_f>
+		<Attack_f>10</Attack_f>
+		<Hp_f>120</Hp_f>
+	</MonsterData>
+	<MonsterData>
+		<Id_i>8</Id_i>
+		<Type_s>ZOMBIE8</Type_s>
+		<StreetModel_s>Model/streetview/Zombie05</StreetModel_s>
+		<Image_s>Image/zombie</Image_s>
+		<Icon_s>Icon/zombie</Icon_s>
+		<Description_s>sweep all zombies.</Description_s>
+		<Coin_i>10000</Coin_i>
+		<Speed_f>2</Speed_f>
+		<Attack_f>20</Attack_f>
+		<Hp_f>150</Hp_f>
+	</MonsterData>
+	<MonsterData>
+		<Id_i>9</Id_i>
+		<Type_s>ZOMBIE9</Type_s>
+		<StreetModel_s>Model/streetview/Zombie06</StreetModel_s>
+		<Image_s>Image/zombie</Image_s>
+		<Icon_s>Icon/zombie</Icon_s>
+		<Description_s>sweep all zombies.</Description_s>
+		<Coin_i>10000</Coin_i>
+		<Speed_f>4</Speed_f>
+		<Attack_f>15</Attack_f>
+		<Hp_f>130</Hp_f>
+	</MonsterData>
+	<MonsterData>
+		<Id_i>10</Id_i>
+		<Type_s>ZOMBIE10</Type_s>
+		<StreetModel_s>Model/streetview/Zombie07</StreetModel_s>
+		<Image_s>Image/zombie</Image_s>
+		<Icon_s>Icon/zombie</Icon_s>
+		<Description_s>sweep all zombies.</Description_s>
+		<Coin_i>10000</Coin_i>
+		<Speed_f>2.5</Speed_f>
+		<Attack_f>20</Attack_f>
+		<Hp_f>200</Hp_f>
+	</MonsterData>
+	<MonsterData>
+		<Id_i>11</Id_i>
+		<Type_s>DOG01</Type_s>
+		<StreetModel_s>Model/streetview/Dog01</StreetModel_s>
+		<Image_s>Image/blackdog</Image_s>
+		<Icon_s>Icon/blackdog</Icon_s>
+		<Description_s>sweep all zombies.</Description_s>
+		<Coin_i>500</Coin_i>
+		<Speed_f>3</Speed_f>
+		<Attack_f>15</Attack_f>
+		<Hp_f>50</Hp_f>
+	</MonsterData>
+	<MonsterData>
+		<Id_i>12</Id_i>
+		<Type_s>DOG02</Type_s>
+		<StreetModel_s>Model/streetview/Dog02</StreetModel_s>
+		<Image_s>Image/blackdog</Image_s>
+		<Icon_s>Icon/blackdog</Icon_s>
+		<Description_s>sweep all zombies.</Description_s>
+		<Coin_i>500</Coin_i>
+		<Speed_f>3</Speed_f>
+		<Attack_f>15</Attack_f>
+		<Hp_f>50</Hp_f>
+	</MonsterData>
+	<MonsterData>
+		<Id_i>13</Id_i>
+		<Type_s>DOG03</Type_s>
+		<StreetModel_s>Model/streetview/Dog03</StreetModel_s>
+		<Image_s>Image/blackdog</Image_s>
+		<Icon_s>Icon/blackdog</Icon_s>
+		<Description_s>sweep all zombies.</Description_s>
+		<Coin_i>500</Coin_i>
+		<Speed_f>2</Speed_f>
+		<Attack_f>15</Attack_f>
+		<Hp_f>50</Hp_f>
+	</MonsterData>
+	<MonsterData>
+		<Id_i>14</Id_i>
+		<Type_s>DOG04</Type_s>
+		<StreetModel_s>Model/streetview/Dog04</StreetModel_s>
+		<Image_s>Image/blackdog</Image_s>
+		<Icon_s>Icon/blackdog</Icon_s>
+		<Description_s>sweep all zombies.</Description_s>
+		<Coin_i>500</Coin_i>
+		<Speed_f>2</Speed_f>
+		<Attack_f>15</Attack_f>
+		<Hp_f>50</Hp_f>
+	</MonsterData>
+  <MonsterData>
+    <Id_i>15</Id_i>
+    <Type_s>BOSS1</Type_s>
+    <StreetModel_s>Model/streetview/Boss1</StreetModel_s>
+    <Image_s>Image/blackdog</Image_s>
+    <Icon_s>Icon/blackdog</Icon_s>
+    <Description_s>Boss 1</Description_s>
+    <Coin_i>1000</Coin_i>
+    <Speed_f>1</Speed_f>
+    <Attack_f>20</Attack_f>
+    <Hp_f>20000</Hp_f>
+  </MonsterData>
+  <MonsterData>
+    <Id_i>16</Id_i>
+    <Type_s>BOSS2</Type_s>
+    <StreetModel_s>Model/streetview/Boss2</StreetModel_s>
+    <Image_s>Image/blackdog</Image_s>
+    <Icon_s>Icon/blackdog</Icon_s>
+    <Description_s>Boss 2</Description_s>
+    <Coin_i>3000</Coin_i>
+    <Speed_f>1</Speed_f>
+    <Attack_f>30</Attack_f>
+    <Hp_f>80000</Hp_f>
+  </MonsterData>
+</root>

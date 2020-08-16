@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--this is weapondata list-->
+<root>
+  <WeaponData>
+    <Id_i>1</Id_i>
+    <Name_s>Pistol</Name_s>
+    <Price_f>1000</Price_f>
+    <ShopModel_s>Model/shop/pistol</ShopModel_s>
+    <PickUpModel_s>Model/pickup/pistol</PickUpModel_s>
+    <Image_s>Image/pistol</Image_s>
+    <Icon_s />
+    <Kind_i>1</Kind_i>
+    <Description_s>9mm Safe-Action Pistol. Headshot is necessary for this weapon to be effective.</Description_s>
+    <PropertyIdList_l>fire_rate,damage,range,reload_speed,ammo_capacity,fire_rate_level,damage_level,range_level,reload_speed_level,ammo_capacity_level</PropertyIdList_l>
+    <PropertyValList_l>0.6,4,100,1,20,0.1,3,50,0,5</PropertyValList_l>
+  </WeaponData>
+  <WeaponData>
+    <Id_i>2</Id_i>
+    <Name_s>Shotgun</Name_s>
+    <Price_f>3000</Price_f>
+    <ShopModel_s>Model/shop/shotgun</ShopModel_s>
+    <PickUpModel_s>Model/pickup/shotgun</PickUpModel_s>
+    <Image_s>Image/shotgun</Image_s>
+    <Icon_s />
+    <Kind_i>2</Kind_i>
+    <Description_s>590A1 Tactical Pump Action Shotgun. Extremely powerful but only when monsters are in close range.</Description_s>
+    <PropertyIdList_l>fire_rate,damage,range,reload_speed,ammo_capacity,fire_rate_level,damage_level,range_level,reload_speed_level,ammo_capacity_level</PropertyIdList_l>
+    <PropertyValList_l>1.2,20,100,1.5,8,0.2,10,40,0.25,2</PropertyValList_l>
+  </WeaponData>
+  <WeaponData>
+    <Id_i>3</Id_i>
+    <Name_s>M16 Carbine Assault Rifle</Name_s>
+    <Price_f>5000</Price_f>
+    <ShopModel_s>Model/shop/autorifle</ShopModel_s>
+    <PickUpModel_s>Model/pickup/autorifle</PickUpModel_s>
+    <Image_s>Image/autorifle</Image_s>
+    <Icon_s />
+    <Kind_i>3</Kind_i>
+    <Description_s>M16 Carbine Assault Rifle. Fires many rounds quickly. Great weapon when surrounded by enemies.</Description_s>
+    <PropertyIdList_l>fire_rate,damage,range,reload_speed,ammo_capacity,fire_rate_level,damage_level,range_level,reload_speed_level,ammo_capacity_level</PropertyIdList_l>
+    <PropertyValList_l>0.2,5,200,1,30,0.05,4,50,0,0</PropertyValList_l>
+  </WeaponData>
+  <WeaponData>
+    <Id_i>4</Id_i>
+    <Name_s>Grenade Launcher</Name_s>
+    <Price_f>7000</Price_f>
+    <ShopModel_s>Model/shop/grenadegun</ShopModel_s>
+    <PickUpModel_s>Model/pickup/grenadegun</PickUpModel_s>
+    <Image_s>Image/grenadegun</Image_s>
+    <Icon_s />
+    <Kind_i>2</Kind_i>
+    <Description_s>3D printed homemade grenade Launcher</Description_s>
+    <PropertyIdList_l>fire_rate,damage,range,reload_speed,ammo_capacity,fire_rate_level,damage_level,range_level,reload_speed_level,ammo_capacity_level</PropertyIdList_l>
+    <PropertyValList_l>1.5,100,100,2,6,0.25,10,50,0.25,0</PropertyValList_l>
+  </WeaponData>
+  <WeaponData>
+    <Id_i>5</Id_i>
+    <Name_s>M4 Carbon Rifle</Name_s>
+    <Price_f>10000</Price_f>
+    <ShopModel_s>Model/shop/superrifle</ShopModel_s>
+    <PickUpModel_s>Model/pickup/superrifle</PickUpModel_s>
+    <Image_s>Image/superrifle</Image_s>
+    <Icon_s />
+    <Kind_i>3</Kind_i>
+    <Description_s>The M4 carbine is a shorter and lighter variant of the M16A2 assault rifle. The M4 is an air-cooled, direct impingement gas-operated, magazine-fed carbine. It has a 14.5 in (370 mm) barrel and a telescoping stock. Very powerful weapon.</Description_s>
+    <PropertyIdList_l>fire_rate,damage,range,reload_speed,ammo_capacity,fire_rate_level,damage_level,range_level,reload_speed_level,ammo_capacity_level</PropertyIdList_l>
+    <PropertyValList_l>0.1,5,200,1,40,0.01,5,50,0.2,5</PropertyValList_l>
+  </WeaponData>
+  <WeaponData>
+    <Id_i>6</Id_i>
+    <Name_s>Military Crossbow</Name_s>
+    <Price_f>7000</Price_f>
+    <ShopModel_s>Model/shop/bow</ShopModel_s>
+    <PickUpModel_s>Model/pickup/bow</PickUpModel_s>
+    <Image_s>Image/bow</Image_s>
+    <Icon_s />
+    <Kind_i>3</Kind_i>
+    <Description_s>Killer Instinct SWAT Crossbow Package / 165 lb Draw Weight, Black, 1095</Description_s>
+    <PropertyIdList_l>fire_rate,damage,range,reload_speed,ammo_capacity,fire_rate_level,damage_level,range_level,reload_speed_level,ammo_capacity_level</PropertyIdList_l>
+    <PropertyValList_l>1,20,200,1.5,50,0.25,10,50,0.3,25</PropertyValList_l>
+  </WeaponData>
+  <WeaponData>
+    <Id_i>7</Id_i>
+    <Name_s>Experimental Plasma Rifle</Name_s>
+    <Price_f>20000</Price_f>
+    <ShopModel_s>Model/shop/Blaster</ShopModel_s>
+    <PickUpModel_s>Model/pickup/Blaster</PickUpModel_s>
+    <Image_s>Image/Blaster</Image_s>
+    <Icon_s />
+    <Kind_i>3</Kind_i>
+    <Description_s>A xenon / argon gas mix is combined with electricity to create a powerful weapon. </Description_s>
+    <PropertyIdList_l>fire_rate,damage,range,reload_speed,ammo_capacity,fire_rate_level,damage_level,range_level,reload_speed_level,ammo_capacity_level</PropertyIdList_l>
+    <PropertyValList_l>0.05,15,250,2,100,0,5,50,0.5,50</PropertyValList_l>
+  </WeaponData>
+  <WeaponData>
+    <Id_i>8</Id_i>
+    <Name_s>FlameThrower</Name_s>
+    <Price_f>10000</Price_f>
+    <ShopModel_s>Model/shop/FlameThrower</ShopModel_s>
+    <PickUpModel_s>Model/pickup/FlameThrower</PickUpModel_s>
+    <Image_s>Image/FlameThrower</Image_s>
+    <Icon_s />
+    <Kind_i>3</Kind_i>
+    <Description_s>A flamethrower is a mechanical incendiary device designed to project a long, controllable stream of fire.</Description_s>
+    <PropertyIdList_l>fire_rate,damage,range,reload_speed,ammo_capacity,fire_rate_level,damage_level,range_level,reload_speed_level,ammo_capacity_level</PropertyIdList_l>
+    <PropertyValList_l>0.1,10,30,2,60,0,3,5,0.5,20</PropertyValList_l>
+  </WeaponData>
+  <WeaponData>
+    <Id_i>9</Id_i>
+    <Name_s>Tactical Axe</Name_s>
+    <Price_f>1000</Price_f>
+    <ShopModel_s>Model/shop/axe</ShopModel_s>
+    <PickUpModel_s>Model/pickup/axe</PickUpModel_s>
+    <Image_s>Image/Axe</Image_s>
+    <Icon_s />
+    <Kind_i>4</Kind_i>
+    <Description_s>
+      Sharpened Tactical Axe is great for close combat.</Description_s>
+    <PropertyIdList_l>fire_rate,damage,range,reload_speed,ammo_capacity,fire_rate_level,damage_level,range_level,reload_speed_level,ammo_capacity_level</PropertyIdList_l>
+    <PropertyValList_l>0.8,5,50,0,0,0.15,2,10,0,0</PropertyValList_l>
+  </WeaponData>
+  <WeaponData>
+    <Id_i>10</Id_i>
+    <Name_s>Baseball Bat</Name_s>
+    <Price_f>2000</Price_f>
+    <ShopModel_s>Model/shop/baseball</ShopModel_s>
+    <PickUpModel_s>Model/pickup/baseball</PickUpModel_s>
+    <Image_s>Image/baseball</Image_s>
+    <Icon_s />
+    <Kind_i>4</Kind_i>
+    <Description_s>Baseball bat with rusty nails.</Description_s>
+    <PropertyIdList_l>fire_rate,damage,range,reload_speed,ammo_capacity,fire_rate_level,damage_level,range_level,reload_speed_level,ammo_capacity_level</PropertyIdList_l>
+    <PropertyValList_l>1,10,80,0,0,0.2,5,10,0,0</PropertyValList_l>
+  </WeaponData>
+</root>

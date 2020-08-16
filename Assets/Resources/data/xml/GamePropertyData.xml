@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--this is GameProperty list-->
+<root>
+  <WeaponProperty>
+    <Id_i>1</Id_i>
+    <Name_s>power_min</Name_s>
+    <DispName_s>Min Power</DispName_s>
+    <Image_s />
+    <Description_s>Min Power is lowest power of gun</Description_s>
+  </WeaponProperty>
+  <WeaponProperty>
+    <Id_i>2</Id_i>
+    <Name_s>power_max</Name_s>
+    <DispName_s>Max Power</DispName_s>
+    <Image_s />
+    <Description_s>Max Power is max power of gun</Description_s>
+  </WeaponProperty>
+  <WeaponProperty>
+    <Id_i>3</Id_i>
+    <Name_s>fire_rate</Name_s>
+    <DispName_s>Fire Rate( per second)</DispName_s>
+    <Image_s />
+    <Description_s>Fire rate is </Description_s>
+  </WeaponProperty>
+  <WeaponProperty>
+    <Id_i>4</Id_i>
+    <Name_s>damage</Name_s>
+    <DispName_s>Damage</DispName_s>
+    <Image_s />
+    <Description_s>Damage is </Description_s>
+  </WeaponProperty>
+</root>

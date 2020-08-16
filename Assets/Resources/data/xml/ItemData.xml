@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+   <ItemData>
+    <Id_i>1</Id_i>
+    <Name_s>Pistol Clip</Name_s>
+    <Kind_i>0</Kind_i>
+    <Price_f>1000</Price_f>
+    <ShopModel_s>Model/shop/pistol_clip</ShopModel_s>
+    <PickUpModel_s>Model/pickup/pistol_clip</PickUpModel_s>
+    <Image_s>Image/pistol_clip</Image_s>
+    <Icon_s />
+    <Description_s>If you run out of pistol ammo this clip might just save your life.</Description_s>
+    <PropertyIdList_l />
+    <PropertyValList_l />
+  </ItemData>
+  <ItemData>
+    <Id_i>2</Id_i>
+    <Name_s>Shotgun Shell</Name_s>
+    <Kind_i>0</Kind_i>
+    <Price_f>1500</Price_f>
+    <ShopModel_s>Model/shop/shotgun_clip</ShopModel_s>
+    <PickUpModel_s>Model/pickup/shotgun_clip</PickUpModel_s>
+    <Image_s>Image/shotgun_clip</Image_s>
+    <Icon_s />
+    <Description_s>If you run out of shotgun ammo this clip might just save your life.</Description_s>
+    <PropertyIdList_l />
+    <PropertyValList_l />
+  </ItemData>
+  <ItemData>
+    <Id_i>3</Id_i>
+    <Name_s>Assault Rifle Clip</Name_s>
+    <Kind_i>0</Kind_i>
+    <Price_f>2000</Price_f>
+    <ShopModel_s>Model/shop/autorifle_clip</ShopModel_s>
+    <PickUpModel_s>Model/pickup/autorifle_clip</PickUpModel_s>
+    <Image_s>Image/autorifle_clip</Image_s>
+    <Icon_s />
+    <Description_s>If you run out of autorilfe ammo this clip might just save your life.</Description_s>
+    <PropertyIdList_l />
+    <PropertyValList_l />
+  </ItemData>
+  <ItemData>
+    <Id_i>4</Id_i>
+    <Name_s>Grenade Stacks</Name_s>
+    <Kind_i>0</Kind_i>
+    <Price_f>2500</Price_f>
+    <ShopModel_s>Model/shop/grenade_clip</ShopModel_s>
+    <PickUpModel_s>Model/pickup/grenade_clip</PickUpModel_s>
+    <Image_s>Image/grenade_clip</Image_s>
+    <Icon_s />
+    <Description_s>If you run out of grenades this clip might just save your life.</Description_s>
+    <PropertyIdList_l />
+    <PropertyValList_l />
+  </ItemData>
+  <ItemData>
+    <Id_i>5</Id_i>
+    <Name_s>M4 Carbon Clip</Name_s>
+    <Kind_i>0</Kind_i>
+    <Price_f>3000</Price_f>
+    <ShopModel_s>Model/shop/superrifle_clip</ShopModel_s>
+    <PickUpModel_s>Model/pickup/superrifle_clip</PickUpModel_s>
+    <Image_s>Image/superrifle_clip</Image_s>
+    <Icon_s />
+    <Description_s>If you run out of superrifle ammo this clip might just save your life.</Description_s>
+    <PropertyIdList_l />
+    <PropertyValList_l />
+  </ItemData>
+  <ItemData>
+    <Id_i>6</Id_i>
+    <Name_s>Crossbow Arrow</Name_s>
+    <Kind_i>0</Kind_i>
+    <Price_f>2500</Price_f>
+    <ShopModel_s>Model/shop/bow_arrow</ShopModel_s>
+    <PickUpModel_s>Model/pickup/bow_arrow</PickUpModel_s>
+    <Image_s>Image/bow_arrow</Image_s>
+    <Icon_s />
+    <Description_s>If you run out of bow arrow this clip might just save your life.</Description_s>
+    <PropertyIdList_l />
+    <PropertyValList_l />
+  </ItemData>
+  <ItemData>
+    <Id_i>7</Id_i>
+    <Name_s>Xenon /Argon Gas Canister</Name_s>
+    <Kind_i>0</Kind_i>
+    <Price_f>5000</Price_f>
+    <ShopModel_s>Model/shop/xenon</ShopModel_s>
+    <PickUpModel_s>Model/pickup/xenon</PickUpModel_s>
+    <Image_s>Image/xenon</Image_s>
+    <Icon_s />
+    <Description_s>Xenon and Argon are highly combustible when exposed to electricity. This canister is the fuel for the Experimental Plasma Rifle.</Description_s>
+    <PropertyIdList_l />
+    <PropertyValList_l />
+  </ItemData>
+  <ItemData>
+    <Id_i>8</Id_i>
+    <Name_s>Flamethrower Canister</Name_s>
+    <Kind_i>0</Kind_i>
+    <Price_f>4000</Price_f>
+    <ShopModel_s>Model/shop/flame</ShopModel_s>
+    <PickUpModel_s>Model/pickup/flame</PickUpModel_s>
+    <Image_s>Image/Flame</Image_s>
+    <Icon_s />
+    <Description_s>Flamethrower canisters filled with butane gas to power the flamethrower.</Description_s>
+    <PropertyIdList_l />
+    <PropertyValList_l />
+  </ItemData>
+  <ItemData>
+    <Id_i>9</Id_i>
+    <Name_s>Energy Drink</Name_s>
+    <Kind_i>0</Kind_i>
+    <Price_f>2000</Price_f>
+    <ShopModel_s>Model/shop/energy_drink</ShopModel_s>
+    <PickUpModel_s>Model/pickup/energy_drink</PickUpModel_s>
+    <Image_s>Image/Energy</Image_s>
+    <Icon_s />
+    <Description_s>Refills your consecutive immediate plays.</Description_s>
+    <PropertyIdList_l />
+    <PropertyValList_l />
+  </ItemData>
+  <ItemData>
+    <Id_i>10</Id_i>
+    <Name_s>Chicken Sandwich</Name_s>
+    <Kind_i>0</Kind_i>
+    <Price_f>4000</Price_f>
+    <ShopModel_s>Model/shop/chicken_sandwich</ShopModel_s>
+    <PickUpModel_s>Model/pickup/chicken_sandwich</PickUpModel_s>
+    <Image_s>Image/Packs/Chicken_Sandwich</Image_s>
+    <Icon_s />
+    <Description_s>
+      Refills your consecutive immediate plays.{br}{br}Limited Time Offer:{br}{br}Now with{br}{br}{color=#D02830}C{/color}elery {color=#D02830}I{/color}nfused {color=#D02830}A{/color}vocado Sauce{br}{br}{size=20}Only 10,000 Calories{/size}
+    </Description_s>
+    <PropertyIdList_l />
+    <PropertyValList_l />
+  </ItemData>
+  <ItemData>
+    <Id_i>11</Id_i>
+    <Name_s>Health Kit</Name_s>
+    <Kind_i>0</Kind_i>
+    <Price_f>5000</Price_f>
+    <ShopModel_s>Model/shop/health_up</ShopModel_s>
+    <PickUpModel_s>Model/pickup/health_up</PickUpModel_s>
+    <Image_s>Image/health_up</Image_s>
+    <Icon_s />
+    <Description_s>If you run out of health this item might just save your life.</Description_s>
+    <PropertyIdList_l />
+    <PropertyValList_l />
+  </ItemData>
+  <ItemData>
+    <Id_i>12</Id_i>
+    <Name_s>Bulletproof Vest</Name_s>
+    <Kind_i>0</Kind_i>
+    <Price_f>10000</Price_f>
+    <ShopModel_s>Model/shop/body_armor</ShopModel_s>
+    <PickUpModel_s>Model/pickup/body_armor</PickUpModel_s>
+    <Image_s>Image/body_armor</Image_s>
+    <Icon_s />
+    <Description_s>Body Armor provides additional protection from Zombie Attacks</Description_s>
+    <PropertyIdList_l />
+    <PropertyValList_l />
+  </ItemData>
+  <ItemData>
+    <Id_i>13</Id_i>
+    <Name_s>Unbreakable</Name_s>
+    <Kind_i>0</Kind_i>
+    <Price_f>7</Price_f>
+    <ShopModel_s>Model/shop/unbreakable</ShopModel_s>
+    <PickUpModel_s>Model/pickup/unbreakable</PickUpModel_s>
+    <Image_s>Image/Packs/Unbreakable</Image_s>
+    <Icon_s />
+    <Description_s>You will be Invulnerable for 15 secs</Description_s>
+    <PropertyIdList_l />
+    <PropertyValList_l />
+  </ItemData>
+  <ItemData>
+    <Id_i>14</Id_i>
+    <Name_s>Double Cash</Name_s>
+    <Kind_i>0</Kind_i>
+    <Price_f>9</Price_f>
+    <ShopModel_s>Model/shop/double_cash</ShopModel_s>
+    <PickUpModel_s>Model/pickup/double_cash</PickUpModel_s>
+    <Image_s>Image/Packs/Double_Cash</Image_s>
+    <Icon_s />
+    <Description_s>Get 2X Cashes from rewards.</Description_s>
+    <PropertyIdList_l />
+    <PropertyValList_l />
+  </ItemData>
+  <ItemData>
+    <Id_i>15</Id_i>
+    <Name_s>Maniaco Spectacles</Name_s>
+    <Kind_i>0</Kind_i>
+    <Price_f>10</Price_f>
+    <ShopModel_s>Model/shop/spectacles</ShopModel_s>
+    <PickUpModel_s>Model/pickup/spectacles</PickUpModel_s>
+    <Image_s>Image/spectacles</Image_s>
+    <Icon_s />
+    <Description_s>Maniaco Spectacles is an advanced augmented reality device used by the visually impaired to restore vision.</Description_s>
+    <PropertyIdList_l />
+    <PropertyValList_l />
+  </ItemData>
+  <ItemData>
+    <Id_i>16</Id_i>
+    <Name_s>Spectacles Battery</Name_s>
+    <Kind_i>0</Kind_i>
+    <Price_f>2000</Price_f>
+    <ShopModel_s>Model/shop/battery</ShopModel_s>
+    <PickUpModel_s>Model/pickup/battery</PickUpModel_s>
+    <Image_s>Image/battery</Image_s>
+    <Icon_s />
+    <Description_s>This Battery pack provides power to the augmented reality Maniaco Spectacles.</Description_s>
+    <PropertyIdList_l />
+    <PropertyValList_l />
+  </ItemData>
+</root>

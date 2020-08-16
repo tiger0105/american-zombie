@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--this is Purchase list-->
+<root>
+  <PurchaseData>
+    <Id_i>0</Id_i>
+    <ProductId_s>PIGGY_BANK</ProductId_s>
+    <DisplayName_s>Piggy Bank</DisplayName_s>
+    <ProductType_i >0</ProductType_i >
+    <PriceTier_i>4</PriceTier_i>
+    <Image_s>Image/Packs/Pack_Piggy</Image_s>
+    <Description_s>75 Gold Bars</Description_s>
+    <AndroidId_s>PIGGY_BANK</AndroidId_s>
+    <IOSId_s>PIGGY_BANK</IOSId_s>
+  </PurchaseData>
+ <PurchaseData>
+    <Id_i>1</Id_i>
+    <ProductId_s>KILLER_PACK</ProductId_s>
+    <DisplayName_s>Killer Pack</DisplayName_s>
+    <ProductType_i >0</ProductType_i >
+    <PriceTier_i>6</PriceTier_i>
+    <Image_s>Image/Packs/Pack_Killer</Image_s>
+    <Description_s>200 Gold Bars, 200000 Cash, 10 Health Packs, M16</Description_s>
+    <AndroidId_s>KILLER_PACK</AndroidId_s>
+    <IOSId_s>KILLER_PACK</IOSId_s>
+    <WP8Id_s>KILLER_PACK</WP8Id_s>
+</PurchaseData>
+<PurchaseData>
+    <Id_i>2</Id_i>
+    <ProductId_s>REMOVE_ADS</ProductId_s>
+    <DisplayName_s>Remove Ads</DisplayName_s>
+    <ProductType_i >0</ProductType_i >
+    <PriceTier_i>8</PriceTier_i>
+    <Image_s>Image/Packs/Pack_NoAds</Image_s>
+    <Description_s>Remove Ads, 100 Gold Bars, 199000 Cash</Description_s>
+    <AndroidId_s>REMOVE_ADS</AndroidId_s>
+    <IOSId_s>REMOVE_ADS</IOSId_s>
+</PurchaseData>
+<PurchaseData>
+    <Id_i>3</Id_i>
+    <ProductId_s>ULTRA_PACK</ProductId_s>
+    <DisplayName_s>Ultra Pack</DisplayName_s>
+    <ProductType_i >0</ProductType_i >
+    <PriceTier_i>10</PriceTier_i>
+    <Image_s>Image/Packs/Pack_Ultra</Image_s>
+    <Description_s>Plasma Gun, M16, 5 Health Packs, 200 Gold Bars</Description_s>
+    <AndroidId_s>ULTRA_PACK</AndroidId_s>
+    <IOSId_s>ULTRA_PACK</IOSId_s>
+</PurchaseData>
+
+
+<PurchaseData>
+  <Id_i>4</Id_i>
+  <ProductId_s>LOW_PRICE_GOLD</ProductId_s>
+  <DisplayName_s>Low Gold Pack</DisplayName_s>
+  <ProductType_i >0</ProductType_i >
+  <PriceTier_i>2</PriceTier_i>
+  <Image_s>Image/Packs/Gold_Low</Image_s>
+  <Description_s>100 Gold Bars</Description_s>
+  <AndroidId_s>LOW_PRICE_GOLD</AndroidId_s>
+  <IOSId_s>LOW_PRICE_GOLD</IOSId_s>
+  <WP8Id_s>LOW_PRICE_GOLD</WP8Id_s>
+</PurchaseData>
+<PurchaseData>
+  <Id_i>5</Id_i>
+  <ProductId_s>TINY_GOLD</ProductId_s>
+  <DisplayName_s>Tiny Gold Pack</DisplayName_s>
+  <ProductType_i >0</ProductType_i >
+  <PriceTier_i>8</PriceTier_i>
+  <Image_s>Image/Packs/Gold_Tiny</Image_s>
+  <Description_s>220 Gold Bars</Description_s>
+  <AndroidId_s>TINY_GOLD</AndroidId_s>
+  <IOSId_s>TINY_GOLD</IOSId_s>
+</PurchaseData>
+<PurchaseData>
+  <Id_i>6</Id_i>
+  <ProductId_s>MEDIUM_GOLD</ProductId_s>
+  <DisplayName_s>Medium Gold Pack</DisplayName_s>
+  <ProductType_i >0</ProductType_i >
+  <PriceTier_i>12</PriceTier_i>
+  <Image_s>Image/Packs/Gold_Medium</Image_s>
+  <Description_s>600 Gold Bars</Description_s>
+  <AndroidId_s>MEDIUM_GOLD</AndroidId_s>
+  <IOSId_s>MEDIUM_GOLD</IOSId_s>
+</PurchaseData>
+<PurchaseData>
+  <Id_i>7</Id_i>
+  <ProductId_s>LARGE_GOLD</ProductId_s>
+  <DisplayName_s>Large Gold Pack</DisplayName_s>
+  <ProductType_i >0</ProductType_i >
+  <PriceTier_i>20</PriceTier_i>
+  <Image_s>Image/Packs/Gold_Large</Image_s>
+  <Description_s>3000 Gold Bars</Description_s>
+  <AndroidId_s>LARGE_GOLD</AndroidId_s>
+  <IOSId_s>LARGE_GOLD</IOSId_s>
+</PurchaseData>
+<PurchaseData>
+  <Id_i>8</Id_i>
+  <ProductId_s>X_LARGER_GOLD</ProductId_s>
+  <DisplayName_s>X-Larger Gold Pack</DisplayName_s>
+  <ProductType_i >0</ProductType_i >
+  <PriceTier_i>50</PriceTier_i>
+  <Image_s>Image/Packs/Gold_XLarge</Image_s>
+  <Description_s>9000 Gold Bars</Description_s>
+  <AndroidId_s>X_LARGER_GOLD</AndroidId_s>
+  <IOSId_s>X_LARGER_GOLD</IOSId_s>
+</PurchaseData>
+
+
+<PurchaseData>
+  <Id_i>9</Id_i>
+  <ProductId_s>LOW_PRICE_CASH</ProductId_s>
+  <DisplayName_s>Low Cash Pack</DisplayName_s>
+  <ProductType_i >0</ProductType_i >
+  <PriceTier_i>1</PriceTier_i>
+  <Image_s>Image/Packs/Cash_Low</Image_s>
+  <Description_s>99000 Cash</Description_s>
+  <AndroidId_s>LOW_PRICE_CASH</AndroidId_s>
+  <IOSId_s>LOW_PRICE_CASH</IOSId_s>
+  <WP8Id_s>LOW_PRICE_CASH</WP8Id_s>
+</PurchaseData>
+<PurchaseData>
+  <Id_i>10</Id_i>
+  <ProductId_s>TINY_CASH</ProductId_s>
+  <DisplayName_s>Tiny Cash Pack</DisplayName_s>
+  <ProductType_i >0</ProductType_i >
+  <PriceTier_i>2</PriceTier_i>
+  <Image_s>Image/Packs/Cash_Tiny</Image_s>
+  <Description_s>198000 Cash</Description_s>
+  <AndroidId_s>TINY_CASH</AndroidId_s>
+  <IOSId_s>TINY_CASH</IOSId_s>
+</PurchaseData>
+<PurchaseData>
+  <Id_i>11</Id_i>
+  <ProductId_s>MEDIUM_CASH</ProductId_s>
+  <DisplayName_s>Medium Cash Pack</DisplayName_s>
+  <ProductType_i >0</ProductType_i >
+  <PriceTier_i>5</PriceTier_i>
+  <Image_s>Image/Packs/Cash_Medium</Image_s>
+  <Description_s>540000 Cash</Description_s>
+  <AndroidId_s>MEDIUM_CASH</AndroidId_s>
+  <IOSId_s>MEDIUM_CASH</IOSId_s>
+</PurchaseData>
+<PurchaseData>
+  <Id_i>12</Id_i>
+  <ProductId_s>LARGE_CASH</ProductId_s>
+  <DisplayName_s>Large Cash Pack</DisplayName_s>
+  <ProductType_i >0</ProductType_i >
+  <PriceTier_i>10</PriceTier_i>
+  <Image_s>Image/Packs/Cash_Large</Image_s>
+  <Description_s>2700000 Cash</Description_s>
+  <AndroidId_s>LARGE_CASH</AndroidId_s>
+  <IOSId_s>LARGE_CASH</IOSId_s>
+</PurchaseData>
+<PurchaseData>
+  <Id_i>13</Id_i>
+  <ProductId_s>X_LARGER_CASH</ProductId_s>
+  <DisplayName_s>X-Larger Cash Pack</DisplayName_s>
+  <ProductType_i >0</ProductType_i >
+  <PriceTier_i>20</PriceTier_i>
+  <Image_s>Image/Packs/Cash_XLarge</Image_s>
+  <Description_s>8100000 Cash</Description_s>
+  <AndroidId_s>X_LARGER_CASH</AndroidId_s>
+  <IOSId_s>X_LARGER_CASH</IOSId_s>
+</PurchaseData>
+  
+  
+</root>

@@ -1,0 +1,467 @@
+﻿<root>
+	<MissionData>
+		<Id_i>0</Id_i>
+		<Type_s>Campaign</Type_s>
+		<Index_i>0</Index_i>
+		<Name_s>Day 1</Name_s>
+		<Image_s>Image/campaign</Image_s>
+		<Icon_s />
+		<Description_s>
+      Beware of your Surroundings</Description_s>
+		<MonsterIdList_l>ZOMBIE1</MonsterIdList_l>
+		<MonsterCountList_l>6</MonsterCountList_l>
+		<WeaponIdList_l />
+		<WeaponCountList_l />
+		<ItemIdList_l />
+		<ItemCountList_l />
+		<Coin_i>100</Coin_i>
+	</MissionData>
+	<MissionData>
+		<Id_i>1</Id_i>
+		<Type_s>Campaign</Type_s>
+		<Index_i>1</Index_i>
+		<Name_s>Day 2</Name_s>
+		<Image_s>Image/campaign</Image_s>
+		<Icon_s />
+		<Description_s>OMG! Those people look like zombies</Description_s>
+		<MonsterIdList_l>ZOMBIE1,ZOMBIE2</MonsterIdList_l>
+		<MonsterCountList_l>4,2</MonsterCountList_l>
+		<WeaponIdList_l />
+		<WeaponCountList_l />
+		<ItemIdList_l />
+		<ItemCountList_l />
+		<Coin_i>200</Coin_i>
+	</MissionData>
+	<MissionData>
+		<Id_i>2</Id_i>
+		<Type_s>Campaign</Type_s>
+		<Index_i>2</Index_i>
+		<Name_s>Day 3</Name_s>
+		<Image_s>Image/campaign</Image_s>
+		<Icon_s />
+		<Description_s>Yup, Definitely Zombies</Description_s>
+		<MonsterIdList_l>ZOMBIE1,ZOMBIE2</MonsterIdList_l>
+		<MonsterCountList_l>2,4</MonsterCountList_l>
+		<WeaponIdList_l />
+		<WeaponCountList_l />
+		<ItemIdList_l />
+		<ItemCountList_l />
+		<Coin_i>300</Coin_i>
+	</MissionData>
+	<MissionData>
+		<Id_i>3</Id_i>
+		<Type_s>Campaign</Type_s>
+		<Index_i>3</Index_i>
+		<Name_s>Day 4</Name_s>
+		<Image_s>Image/campaign</Image_s>
+		<Icon_s />
+		<Description_s>Avoid the infected at all costs</Description_s>
+		<MonsterIdList_l>ZOMBIE2</MonsterIdList_l>
+		<MonsterCountList_l>6</MonsterCountList_l>
+		<WeaponIdList_l />
+		<WeaponCountList_l />
+		<ItemIdList_l />
+		<ItemCountList_l />
+		<Coin_i>400</Coin_i>
+	</MissionData>
+	<MissionData>
+		<Id_i>4</Id_i>
+		<Type_s>Campaign</Type_s>
+		<Index_i>4</Index_i>
+		<Name_s>Day 5</Name_s>
+		<Image_s>Image/campaign</Image_s>
+		<Icon_s />
+		<Description_s>I'm going blind.....</Description_s>
+		<MonsterIdList_l>ZOMBIE1,ZOMBIE2</MonsterIdList_l>
+		<MonsterCountList_l>6,6</MonsterCountList_l>
+		<WeaponIdList_l />
+		<WeaponCountList_l />
+		<ItemIdList_l />
+		<ItemCountList_l />
+		<Coin_i>500</Coin_i>
+	</MissionData>
+	<MissionData>
+		<Id_i>5</Id_i>
+		<Type_s>Campaign</Type_s>
+		<Index_i>5</Index_i>
+		<Name_s>Day 6</Name_s>
+		<Image_s>Image/campaign</Image_s>
+		<Icon_s />
+		<Description_s>Prepare yourself for the worst case scenario</Description_s>
+		<MonsterIdList_l>ZOMBIE1,ZOMBIE2,ZOMBIE3</MonsterIdList_l>
+		<MonsterCountList_l>4,4,4</MonsterCountList_l>
+		<WeaponIdList_l />
+		<WeaponCountList_l />
+		<ItemIdList_l />
+		<ItemCountList_l />
+		<Coin_i>600</Coin_i>
+	</MissionData>
+	<MissionData>
+		<Id_i>6</Id_i>
+		<Type_s>Campaign</Type_s>
+		<Index_i>6</Index_i>
+		<Name_s>Day 7</Name_s>
+		<Image_s>Image/campaign</Image_s>
+		<Icon_s />
+		<Description_s>Ye tho I walk through the valley of the shadow of death</Description_s>
+		<MonsterIdList_l>ZOMBIE2,ZOMBIE3</MonsterIdList_l>
+		<MonsterCountList_l>4,8</MonsterCountList_l>
+		<WeaponIdList_l />
+		<WeaponCountList_l />
+		<ItemIdList_l />
+		<ItemCountList_l />
+		<Coin_i>700</Coin_i>
+	</MissionData>
+	<MissionData>
+		<Id_i>7</Id_i>
+		<Type_s>Campaign</Type_s>
+		<Index_i>7</Index_i>
+		<Name_s>Day 8</Name_s>
+		<Image_s>Image/campaign</Image_s>
+		<Icon_s />
+		<Description_s>Zombies have infiltrated your local news stations</Description_s>
+		<MonsterIdList_l>ZOMBIE1,ZOMBIE3,ZOMBIE4</MonsterIdList_l>
+		<MonsterCountList_l>4,6,2</MonsterCountList_l>
+		<WeaponIdList_l />
+		<WeaponCountList_l />
+		<ItemIdList_l />
+		<ItemCountList_l />
+		<Coin_i>800</Coin_i>
+	</MissionData>
+	<MissionData>
+		<Id_i>8</Id_i>
+		<Type_s>Campaign</Type_s>
+		<Index_i>8</Index_i>
+		<Name_s>Day 9</Name_s>
+		<Image_s>Image/campaign</Image_s>
+		<Icon_s />
+		<Description_s>“The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men</Description_s>
+		<MonsterIdList_l>ZOMBIE2,ZOMBIE4</MonsterIdList_l>
+		<MonsterCountList_l>8,4</MonsterCountList_l>
+		<WeaponIdList_l />
+		<WeaponCountList_l />
+		<ItemIdList_l />
+		<ItemCountList_l />
+		<Coin_i>900</Coin_i>
+	</MissionData>
+	<MissionData>
+		<Id_i>9</Id_i>
+		<Type_s>Campaign</Type_s>
+		<Index_i>9</Index_i>
+		<Name_s>Day 10</Name_s>
+		<Image_s>Image/campaign</Image_s>
+		<Icon_s />
+		<Description_s>This is a full blown apocalypse</Description_s>
+		<MonsterIdList_l>ZOMBIE3,ZOMBIE4</MonsterIdList_l>
+		<MonsterCountList_l>8,4</MonsterCountList_l>
+		<WeaponIdList_l />
+		<WeaponCountList_l />
+		<ItemIdList_l />
+		<ItemCountList_l />
+		<Coin_i>1000</Coin_i>
+	</MissionData>
+	<MissionData>
+		<Id_i>10</Id_i>
+		<Type_s>Campaign</Type_s>
+		<Index_i>10</Index_i>
+		<Name_s>Day 11</Name_s>
+		<Image_s>Image/campaign</Image_s>
+		<Icon_s />
+		<Description_s>Survive the apocalypse</Description_s>
+		<MonsterIdList_l>ZOMBIE2,ZOMBIE4,ZOMBIE6,DOG01</MonsterIdList_l>
+		<MonsterCountList_l>6,6,4,4</MonsterCountList_l>
+		<WeaponIdList_l />
+		<WeaponCountList_l />
+		<ItemIdList_l />
+		<ItemCountList_l />
+		<Coin_i>1100</Coin_i>
+	</MissionData>
+	<MissionData>
+		<Id_i>11</Id_i>
+		<Type_s>Campaign</Type_s>
+		<Index_i>11</Index_i>
+		<Name_s>Day 12</Name_s>
+		<Image_s>Image/campaign</Image_s>
+		<Icon_s />
+		<Description_s>Why is the news constantly repeating the same information?</Description_s>
+		<MonsterIdList_l>ZOMBIE3,ZOMBIE4,ZOMBIE5,DOG01</MonsterIdList_l>
+		<MonsterCountList_l>4,6,6,4</MonsterCountList_l>
+		<WeaponIdList_l />
+		<WeaponCountList_l />
+		<ItemIdList_l />
+		<ItemCountList_l />
+		<Coin_i>1200</Coin_i>
+	</MissionData>
+	<MissionData>
+		<Id_i>12</Id_i>
+		<Type_s>Campaign</Type_s>
+		<Index_i>12</Index_i>
+		<Name_s>Day 13</Name_s>
+		<Image_s>Image/campaign</Image_s>
+		<Icon_s />
+		<Description_s>Kinemortophobia, is defined as a  fear of zombies</Description_s>
+		<MonsterIdList_l>ZOMBIE3,ZOMBIE4,ZOMBIE5,ZOMBIE6,DOG01</MonsterIdList_l>
+		<MonsterCountList_l>4,4,4,4,4</MonsterCountList_l>
+		<WeaponIdList_l />
+		<WeaponCountList_l />
+		<ItemIdList_l />
+		<ItemCountList_l />
+		<Coin_i>1300</Coin_i>
+	</MissionData>
+	<MissionData>
+		<Id_i>13</Id_i>
+		<Type_s>Campaign</Type_s>
+		<Index_i>13</Index_i>
+		<Name_s>Day 14</Name_s>
+		<Image_s>Image/campaign</Image_s>
+		<Icon_s />
+		<Description_s>People who hate zombies are known as Kinemortophobic</Description_s>
+		<MonsterIdList_l>ZOMBIE5,DOG02</MonsterIdList_l>
+		<MonsterCountList_l>16,4</MonsterCountList_l>
+		<WeaponIdList_l />
+		<WeaponCountList_l />
+		<ItemIdList_l />
+		<ItemCountList_l />
+		<Coin_i>1400</Coin_i>
+	</MissionData>
+	<MissionData>
+		<Id_i>14</Id_i>
+		<Type_s>Campaign</Type_s>
+		<Index_i>14</Index_i>
+		<Name_s>Day 15</Name_s>
+		<Image_s>Image/campaign</Image_s>
+		<Icon_s />
+		<Description_s>The country is divided on whether or not zombies should have rights</Description_s>
+		<MonsterIdList_l>ZOMBIE6,DOG01</MonsterIdList_l>
+		<MonsterCountList_l>16,4</MonsterCountList_l>
+		<WeaponIdList_l />
+		<WeaponCountList_l />
+		<ItemIdList_l />
+		<ItemCountList_l />
+		<Coin_i>1500</Coin_i>
+	</MissionData>
+	<MissionData>
+		<Id_i>15</Id_i>
+		<Type_s>Campaign</Type_s>
+		<Index_i>15</Index_i>
+		<Name_s>Day 16</Name_s>
+		<Image_s>Image/campaign</Image_s>
+		<Icon_s />
+		<Description_s>Avoid the infected at all costs</Description_s>
+		<MonsterIdList_l>ZOMBIE4,ZOMBIE5,ZOMBIE6,ZOMBIE7,DOG01</MonsterIdList_l>
+		<MonsterCountList_l>2,2,6,6,4</MonsterCountList_l>
+		<WeaponIdList_l />
+		<WeaponCountList_l />
+		<ItemIdList_l />
+		<ItemCountList_l />
+		<Coin_i>1600</Coin_i>
+	</MissionData>
+	<MissionData>
+		<Id_i>16</Id_i>
+		<Type_s>Campaign</Type_s>
+		<Index_i>16</Index_i>
+		<Name_s>Day 17</Name_s>
+		<Image_s>Image/campaign</Image_s>
+		<Icon_s />
+		<Description_s>Survive the apocalypse</Description_s>
+		<MonsterIdList_l>ZOMBIE5,ZOMBIE6,ZOMBIE7,DOG01</MonsterIdList_l>
+		<MonsterCountList_l>6,6,6,6</MonsterCountList_l>
+		<WeaponIdList_l />
+		<WeaponCountList_l />
+		<ItemIdList_l />
+		<ItemCountList_l />
+		<Coin_i>1700</Coin_i>
+	</MissionData>
+	<MissionData>
+		<Id_i>17</Id_i>
+		<Type_s>Campaign</Type_s>
+		<Index_i>17</Index_i>
+		<Name_s>Day 18</Name_s>
+		<Image_s>Image/campaign</Image_s>
+		<Icon_s />
+		<Description_s>Upgrade weapons</Description_s>
+		<MonsterIdList_l>ZOMBIE3,ZOMBIE5,ZOMBIE6,DOG01</MonsterIdList_l>
+		<MonsterCountList_l>2,12,4,1</MonsterCountList_l>
+		<WeaponIdList_l />
+		<WeaponCountList_l />
+		<ItemIdList_l />
+		<ItemCountList_l />
+		<Coin_i>1800</Coin_i>
+	</MissionData>
+	<MissionData>
+		<Id_i>18</Id_i>
+		<Type_s>Campaign</Type_s>
+		<Index_i>18</Index_i>
+		<Name_s>Day 19</Name_s>
+		<Image_s>Image/campaign</Image_s>
+		<Icon_s />
+		<Description_s>Amigdala drug has a lot of side effects</Description_s>
+		<MonsterIdList_l>ZOMBIE5,ZOMBIE6,ZOMBIE8,DOG01</MonsterIdList_l>
+		<MonsterCountList_l>6,6,6,6</MonsterCountList_l>
+		<WeaponIdList_l />
+		<WeaponCountList_l />
+		<ItemIdList_l />
+		<ItemCountList_l />
+		<Coin_i>1900</Coin_i>
+	</MissionData>
+	<MissionData>
+		<Id_i>19</Id_i>
+		<Type_s>Campaign</Type_s>
+		<Index_i>19</Index_i>
+		<Name_s>Day 20</Name_s>
+		<Image_s>Image/campaign</Image_s>
+		<Icon_s />
+		<Description_s>Since Zombies are no longer alive they don’t have any rights a living man is bound to respect says Zombie critics.</Description_s>
+		<MonsterIdList_l>ZOMBIE4,ZOMBIE5,ZOMBIE6,ZOMBIE8,DOG01</MonsterIdList_l>
+		<MonsterCountList_l>4,4,4,6,6</MonsterCountList_l>
+		<WeaponIdList_l />
+		<WeaponCountList_l />
+		<ItemIdList_l />
+		<ItemCountList_l />
+		<Coin_i>2000</Coin_i>
+	</MissionData>
+	<MissionData>
+		<Id_i>20</Id_i>
+		<Type_s>Campaign</Type_s>
+		<Index_i>20</Index_i>
+		<Name_s>Day 21</Name_s>
+		<Image_s>Image/campaign</Image_s>
+		<Icon_s />
+		<Description_s>“Avoid the infected at all costs” is now considered Hate Speech</Description_s>
+		<MonsterIdList_l>ZOMBIE7,ZOMBIE8,ZOMBIE9,DOG01</MonsterIdList_l>
+		<MonsterCountList_l>6,6,6,6</MonsterCountList_l>
+		<WeaponIdList_l />
+		<WeaponCountList_l />
+		<ItemIdList_l />
+		<ItemCountList_l />
+		<Coin_i>2100</Coin_i>
+	</MissionData>
+	<MissionData>
+		<Id_i>21</Id_i>
+		<Type_s>Campaign</Type_s>
+		<Index_i>21</Index_i>
+		<Name_s>Day 22</Name_s>
+		<Image_s>Image/campaign</Image_s>
+		<Icon_s />
+		<Description_s>The Zombie population is now larger than the living population</Description_s>
+		<MonsterIdList_l>ZOMBIE6,ZOMBIE7,ZOMBIE8,ZOMBIE9,DOG01</MonsterIdList_l>
+		<MonsterCountList_l>5,5,5,5,8</MonsterCountList_l>
+		<WeaponIdList_l />
+		<WeaponCountList_l />
+		<ItemIdList_l />
+		<ItemCountList_l />
+		<Coin_i>2200</Coin_i>
+	</MissionData>
+	<MissionData>
+		<Id_i>22</Id_i>
+		<Type_s>Campaign</Type_s>
+		<Index_i>22</Index_i>
+		<Name_s>Day 23</Name_s>
+		<Image_s>Image/campaign</Image_s>
+		<Icon_s />
+		<Description_s>Long Kiss Goodnight</Description_s>
+		<MonsterIdList_l>ZOMBIE7,ZOMBIE8,ZOMBIE9,ZOMBIE10,DOG01</MonsterIdList_l>
+		<MonsterCountList_l>5,5,5,5,8</MonsterCountList_l>
+		<WeaponIdList_l />
+		<WeaponCountList_l />
+		<ItemIdList_l />
+		<ItemCountList_l />
+		<Coin_i>2300</Coin_i>
+	</MissionData>
+	<MissionData>
+		<Id_i>23</Id_i>
+		<Type_s>Campaign</Type_s>
+		<Index_i>23</Index_i>
+		<Name_s>Day 24</Name_s>
+		<Image_s>Image/campaign</Image_s>
+		<Icon_s />
+		<Description_s>Who will save us?</Description_s>
+		<MonsterIdList_l>ZOMBIE7,ZOMBIE9,ZOMBIE10,DOG01</MonsterIdList_l>
+		<MonsterCountList_l>5,10,5,8</MonsterCountList_l>
+		<WeaponIdList_l />
+		<WeaponCountList_l />
+		<ItemIdList_l />
+		<ItemCountList_l />
+		<Coin_i>2400</Coin_i>
+	</MissionData>
+	<MissionData>
+		<Id_i>24</Id_i>
+		<Type_s>Campaign</Type_s>
+		<Index_i>24</Index_i>
+		<Name_s>Day 25</Name_s>
+		<Image_s>Image/campaign</Image_s>
+		<Icon_s />
+		<Description_s>The End is Near</Description_s>
+		<MonsterIdList_l>ZOMBIE9,ZOMBIE10,DOG01</MonsterIdList_l>
+		<MonsterCountList_l>10,10,8</MonsterCountList_l>
+		<WeaponIdList_l />
+		<WeaponCountList_l />
+		<ItemIdList_l />
+		<ItemCountList_l />
+		<Coin_i>2500</Coin_i>
+	</MissionData>
+	<MissionData>
+		<Id_i>25</Id_i>
+		<Type_s>Survival</Type_s>
+		<Index_i>0</Index_i>
+		<Name_s>Survival</Name_s>
+		<Image_s>Image/survival</Image_s>
+		<Icon_s />
+		<Description_s>Survive the endless zombie wave.</Description_s>
+		<MonsterIdList_l>ZOMBIE1,ZOMBIE2,ZOMBIE3,ZOMBIE4, ZOMBIE5, ZOMBIE6, ZOMBIE7, ZOMBIE8, ZOMBIE9, ZOMBIE10, BOSS1</MonsterIdList_l>
+		<MonsterCountList_l>20,20,20,20,20,20,20,20,20,20,1</MonsterCountList_l>
+		<WeaponIdList_l />
+		<WeaponCountList_l />
+		<ItemIdList_l />
+		<ItemCountList_l />
+		<Coin_i>5000</Coin_i>
+	</MissionData>
+	<MissionData>
+		<Id_i>26</Id_i>
+		<Type_s>Time Limit</Type_s>
+		<Index_i>0</Index_i>
+		<Name_s>Easy</Name_s>
+		<Image_s>Image/time_limit</Image_s>
+		<Icon_s />
+		<Description_s>Kill 15 zombies within 30 seconds.</Description_s>
+		<MonsterIdList_l>ZOMBIE1,ZOMBIE2,ZOMBIE3,ZOMBIE4, ZOMBIE5</MonsterIdList_l>
+		<MonsterCountList_l>12,12,12,12,12</MonsterCountList_l>
+		<WeaponIdList_l />
+		<WeaponCountList_l />
+		<ItemIdList_l />
+		<ItemCountList_l />
+		<Coin_i>1000</Coin_i>
+	</MissionData>
+	<MissionData>
+		<Id_i>27</Id_i>
+		<Type_s>Time Limit</Type_s>
+		<Index_i>1</Index_i>
+		<Name_s>Medium</Name_s>
+		<Image_s>Image/time_limit</Image_s>
+		<Icon_s />
+		<Description_s>Kill 40 zombies within 60 seconds.</Description_s>
+		<MonsterIdList_l>ZOMBIE3, ZOMBIE4, ZOMBIE5, ZOMBIE6, ZOMBIE7</MonsterIdList_l>
+		<MonsterCountList_l>20,20,20,20,20</MonsterCountList_l>
+		<WeaponIdList_l />
+		<WeaponCountList_l />
+		<ItemIdList_l />
+		<ItemCountList_l />
+		<Coin_i>2000</Coin_i>
+	</MissionData>
+	<MissionData>
+		<Id_i>28</Id_i>
+		<Type_s>Time Limit</Type_s>
+		<Index_i>2</Index_i>
+		<Name_s>Hard</Name_s>
+		<Image_s>Image/time_limit</Image_s>
+		<Icon_s />
+		<Description_s>Kill 80 zombies within 90 seconds.</Description_s>
+		<MonsterIdList_l>ZOMBIE6, ZOMBIE7, ZOMBIE8, ZOMBIE9, ZOMBIE10</MonsterIdList_l>
+		<MonsterCountList_l>40,40,40,40,40</MonsterCountList_l>
+		<WeaponIdList_l />
+		<WeaponCountList_l />
+		<ItemIdList_l />
+		<ItemCountList_l />
+		<Coin_i>10000</Coin_i>
+	</MissionData>
+</root>

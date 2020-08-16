@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--this is Daily bonus data list-->
+<root>
+  <DailyBonusData>
+    <Id_i>1</Id_i>
+    <Coin_i>1000</Coin_i>
+  </DailyBonusData>
+  <DailyBonusData>
+    <Id_i>2</Id_i>
+    <Coin_i>1000</Coin_i>
+    <ItemKind_i>1</ItemKind_i>
+    <ItemID_i>2</ItemID_i>
+  </DailyBonusData>
+  <DailyBonusData>
+    <Id_i>3</Id_i>
+    <Coin_i>0</Coin_i>
+    <ItemKind_i>1</ItemKind_i>
+    <ItemID_i>3</ItemID_i>
+  </DailyBonusData>
+  <DailyBonusData>
+    <Id_i>4</Id_i>
+    <Coin_i>1500</Coin_i>
+    <ItemKind_i>2</ItemKind_i>
+    <ItemID_i>6</ItemID_i>
+  </DailyBonusData>
+  <DailyBonusData>
+    <Id_i>5</Id_i>
+    <Coin_i>0</Coin_i>
+    <ItemKind_i>2</ItemKind_i>
+    <ItemID_i>5</ItemID_i>
+  </DailyBonusData>
+  <DailyBonusData>
+    <Id_i>6</Id_i>
+    <Coin_i>1000</Coin_i>
+    <ItemKind_i>2</ItemKind_i>
+    <ItemID_i>8</ItemID_i>
+  </DailyBonusData>
+  <DailyBonusData>
+    <Id_i>7</Id_i>
+    <Coin_i>0</Coin_i>
+    <ItemKind_i>1</ItemKind_i>
+    <ItemID_i>8</ItemID_i>
+  </DailyBonusData>
+</root>
