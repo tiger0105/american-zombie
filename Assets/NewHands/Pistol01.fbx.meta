@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: 91abc43517237ac4992db2b6b1205790
+timeCreated: 1563925783
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Base_mesh
+    100002: Camera
+    100004: Camera001
+    100006: ClipLocator
+    100008: ClipSpawnLocator
+    100010: ClipSpawnMesh
+    100012: FireLocator
+    100014: FullBodyIK
+    100016: Gate
+    100018: Gate_mesh
+    100020: Gun
+    100022: HammerLocator
+    100024: Home
+    100026: Left
+    100028: Left_Elbow
+    100030: Left_IndexFinger01
+    100032: Left_IndexFinger02
+    100034: Left_IndexFinger03
+    100036: Left_IndexFinger04
+    100038: Left_MiddleFinger01
+    100040: Left_MiddleFinger02
+    100042: Left_MiddleFinger03
+    100044: Left_MiddleFinger04
+    100046: Left_Palm
+    100048: Left_Pinky01
+    100050: Left_Pinky02
+    100052: Left_Pinky03
+    100054: Left_Pinky04
+    100056: 'Left_PinkyFinger02 '
+    100058: 'Left_PinkyFinger03 '
+    100060: Left_RingFinger01
+    100062: Left_RingFinger02
+    100064: Left_RingFinger03
+    100066: Left_RingFinger04
+    100068: Left_Shoulder
+    100070: Left_Thumb01
+    100072: Left_Wrist_End
+    100074: Left_Wrist_Start
+    100076: LeftArmLocator
+    100078: LeftElbowGoal
+    100080: LeftHandCoal
+    100082: LeftShoulderGoal
+    100084: LeftSwitchLocator
+    100086: locator1
+    100088: Magazine_mesh
+    100090: Outdoor Probe 06.lxe
+    100092: Peen_mesh
+    100094: //RootNode
+    100096: ReloadLocator
+    100098: Right
+    100100: Right_Elbow
+    100102: Right_IndexFinger01
+    100104: Right_IndexFinger02
+    100106: Right_IndexFinger03
+    100108: Right_IndexFinger04
+    100110: Right_MiddleFinger01
+    100112: Right_MiddleFinger02
+    100114: Right_MiddleFinger03
+    100116: Right_MiddleFinger04
+    100118: Right_Palm
+    100120: Right_Pinky01
+    100122: Right_Pinky02
+    100124: Right_Pinky03
+    100126: Right_Pinky04
+    100128: Right_RingFinger01
+    100130: Right_RingFinger02
+    100132: Right_RingFinger03
+    100134: Right_RingFinger04
+    100136: Right_Shoulder
+    100138: Right_Thumb01
+    100140: Right_Thumb02
+    100142: Right_Thumb03
+    100144: Right_Wrist_End
+    100146: Right_Wrist_Start
+    100148: RightElbowGoal
+    100150: RightHand
+    100152: RightHandGoal
+    100154: RightShoulderGoal
+    100156: 'RightSwitchLocator '
+    100158: Texture Group
+    100160: 'Texture Group '
+    100162: TextureLocators
+    100164: TopPartLocator
+    100166: Trigger_mesh
+    100168: TriggerLocator
+    400000: Base_mesh
+    400002: Camera
+    400004: Camera001
+    400006: ClipLocator
+    400008: ClipSpawnLocator
+    400010: ClipSpawnMesh
+    400012: FireLocator
+    400014: FullBodyIK
+    400016: Gate
+    400018: Gate_mesh
+    400020: Gun
+    400022: HammerLocator
+    400024: Home
+    400026: Left
+    400028: Left_Elbow
+    400030: Left_IndexFinger01
+    400032: Left_IndexFinger02
+    400034: Left_IndexFinger03
+    400036: Left_IndexFinger04
+    400038: Left_MiddleFinger01
+    400040: Left_MiddleFinger02
+    400042: Left_MiddleFinger03
+    400044: Left_MiddleFinger04
+    400046: Left_Palm
+    400048: Left_Pinky01
+    400050: Left_Pinky02
+    400052: Left_Pinky03
+    400054: Left_Pinky04
+    400056: 'Left_PinkyFinger02 '
+    400058: 'Left_PinkyFinger03 '
+    400060: Left_RingFinger01
+    400062: Left_RingFinger02
+    400064: Left_RingFinger03
+    400066: Left_RingFinger04
+    400068: Left_Shoulder
+    400070: Left_Thumb01
+    400072: Left_Wrist_End
+    400074: Left_Wrist_Start
+    400076: LeftArmLocator
+    400078: LeftElbowGoal
+    400080: LeftHandCoal
+    400082: LeftShoulderGoal
+    400084: LeftSwitchLocator
+    400086: locator1
+    400088: Magazine_mesh
+    400090: Outdoor Probe 06.lxe
+    400092: Peen_mesh
+    400094: //RootNode
+    400096: ReloadLocator
+    400098: Right
+    400100: Right_Elbow
+    400102: Right_IndexFinger01
+    400104: Right_IndexFinger02
+    400106: Right_IndexFinger03
+    400108: Right_IndexFinger04
+    400110: Right_MiddleFinger01
+    400112: Right_MiddleFinger02
+    400114: Right_MiddleFinger03
+    400116: Right_MiddleFinger04
+    400118: Right_Palm
+    400120: Right_Pinky01
+    400122: Right_Pinky02
+    400124: Right_Pinky03
+    400126: Right_Pinky04
+    400128: Right_RingFinger01
+    400130: Right_RingFinger02
+    400132: Right_RingFinger03
+    400134: Right_RingFinger04
+    400136: Right_Shoulder
+    400138: Right_Thumb01
+    400140: Right_Thumb02
+    400142: Right_Thumb03
+    400144: Right_Wrist_End
+    400146: Right_Wrist_Start
+    400148: RightElbowGoal
+    400150: RightHand
+    400152: RightHandGoal
+    400154: RightShoulderGoal
+    400156: 'RightSwitchLocator '
+    400158: Texture Group
+    400160: 'Texture Group '
+    400162: TextureLocators
+    400164: TopPartLocator
+    400166: Trigger_mesh
+    400168: TriggerLocator
+    2300000: Base_mesh
+    2300002: ClipSpawnMesh
+    2300004: Gate_mesh
+    2300006: Magazine_mesh
+    2300008: Peen_mesh
+    2300010: Trigger_mesh
+    3300000: Base_mesh
+    3300002: ClipSpawnMesh
+    3300004: Gate_mesh
+    3300006: Magazine_mesh
+    3300008: Peen_mesh
+    3300010: Trigger_mesh
+    4300000: Trigger_mesh
+    4300002: Magazine_mesh
+    4300004: ClipSpawnMesh
+    4300006: Peen_mesh
+    4300008: Gate_mesh
+    4300010: Base_mesh
+    4300012: Left
+    4300014: Right
+    7400000: Animations
+    9500000: //RootNode
+    13700000: Left
+    13700002: Right
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,291 @@
+fileFormatVersion: 2
+guid: 3b022fb3ecfd05d41b6bc2dd12f54927
+timeCreated: 1563927500
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bn_Grenade_Gun_Base1
+    100002: Bn_Grenade_Gun_Base2
+    100004: Bn_Grenade_Gun_Drum
+    100006: Bn_Grenade_Gun_Mounting
+    100008: Bn_Grenade_Gun_Mounting2
+    100010: Bn_Grenade_Gun_Sleeve1
+    100012: Bn_Grenade_Gun_Sleeve2
+    100014: Bn_Grenade_Gun_Sleeve3
+    100016: Bn_Grenade_Gun_Sleeve4
+    100018: Bn_Grenade_Gun_Sleeve5
+    100020: Bn_Grenade_Gun_Sleeve6
+    100022: Bn_Grenade_Gun_Triger
+    100024: FullBodyIK
+    100026: Goal
+    100028: 'Goal '
+    100030: Goal  1
+    100032: Goal  2
+    100034: Goal  3
+    100036: Goal  4
+    100038: Grenade_Gun_Bse1_Mesh
+    100040: Grenade_Gun_Drum_Mesh
+    100042: Grenade_Gun_Sleeve_Mesh1
+    100044: Grenade_Gun_Sleeve_Mesh2
+    100046: Grenade_Gun_Sleeve_Mesh3
+    100048: Grenade_Gun_Sleeve_Mesh4
+    100050: Grenade_Gun_Sleeve_Mesh5
+    100052: Grenade_Gun_Sleeve_Mesh6
+    100054: //RootNode
+    100056: Home
+    100058: Hp_Grenade_Gun_Base1
+    100060: Hp_Grenade_Gun_Base2
+    100062: Hp_Grenade_Gun_Drum
+    100064: Hp_Grenade_Gun_Sleeve1
+    100066: Hp_Grenade_Gun_Sleeve2
+    100068: Hp_Grenade_Gun_Sleeve3
+    100070: Hp_Grenade_Gun_Sleeve4
+    100072: Hp_Grenade_Gun_Sleeve5
+    100074: Hp_Grenade_Gun_Sleeve6
+    100076: Left
+    100078: Left_Elbow
+    100080: Left_IndexFinger01
+    100082: Left_IndexFinger02
+    100084: Left_IndexFinger03
+    100086: Left_IndexFinger04
+    100088: Left_MiddleFinger01
+    100090: Left_MiddleFinger02
+    100092: Left_MiddleFinger03
+    100094: Left_MiddleFinger04
+    100096: Left_Palm
+    100098: Left_Pinky01
+    100100: Left_Pinky02
+    100102: Left_Pinky03
+    100104: Left_Pinky04
+    100106: 'Left_PinkyFinger02 '
+    100108: 'Left_PinkyFinger03 '
+    100110: Left_RingFinger01
+    100112: Left_RingFinger02
+    100114: Left_RingFinger03
+    100116: Left_RingFinger04
+    100118: Left_Shoulder
+    100120: Left_Thumb01
+    100122: Left_Wrist_End
+    100124: Left_Wrist_Start
+    100126: polySurface3
+    100128: Right
+    100130: Right_Elbow
+    100132: Right_Hand
+    100134: Right_IndexFinger01
+    100136: Right_IndexFinger02
+    100138: Right_IndexFinger03
+    100140: Right_IndexFinger04
+    100142: Right_MiddleFinger01
+    100144: Right_MiddleFinger02
+    100146: Right_MiddleFinger03
+    100148: Right_MiddleFinger04
+    100150: Right_Palm
+    100152: Right_Pinky01
+    100154: Right_Pinky02
+    100156: Right_Pinky03
+    100158: Right_Pinky04
+    100160: Right_RingFinger01
+    100162: Right_RingFinger02
+    100164: Right_RingFinger03
+    100166: Right_RingFinger04
+    100168: Right_Shoulder
+    100170: Right_Thumb01
+    100172: Right_Thumb02
+    100174: Right_Thumb03
+    100176: Right_Wrist_End
+    100178: Right_Wrist_Start
+    100180: Trigger
+    100182: TriggerLocator
+    100184: WeaponMainLocator
+    400000: Bn_Grenade_Gun_Base1
+    400002: Bn_Grenade_Gun_Base2
+    400004: Bn_Grenade_Gun_Drum
+    400006: Bn_Grenade_Gun_Mounting
+    400008: Bn_Grenade_Gun_Mounting2
+    400010: Bn_Grenade_Gun_Sleeve1
+    400012: Bn_Grenade_Gun_Sleeve2
+    400014: Bn_Grenade_Gun_Sleeve3
+    400016: Bn_Grenade_Gun_Sleeve4
+    400018: Bn_Grenade_Gun_Sleeve5
+    400020: Bn_Grenade_Gun_Sleeve6
+    400022: Bn_Grenade_Gun_Triger
+    400024: FullBodyIK
+    400026: Goal
+    400028: 'Goal '
+    400030: Goal  1
+    400032: Goal  2
+    400034: Goal  3
+    400036: Goal  4
+    400038: Grenade_Gun_Bse1_Mesh
+    400040: Grenade_Gun_Drum_Mesh
+    400042: Grenade_Gun_Sleeve_Mesh1
+    400044: Grenade_Gun_Sleeve_Mesh2
+    400046: Grenade_Gun_Sleeve_Mesh3
+    400048: Grenade_Gun_Sleeve_Mesh4
+    400050: Grenade_Gun_Sleeve_Mesh5
+    400052: Grenade_Gun_Sleeve_Mesh6
+    400054: //RootNode
+    400056: Home
+    400058: Hp_Grenade_Gun_Base1
+    400060: Hp_Grenade_Gun_Base2
+    400062: Hp_Grenade_Gun_Drum
+    400064: Hp_Grenade_Gun_Sleeve1
+    400066: Hp_Grenade_Gun_Sleeve2
+    400068: Hp_Grenade_Gun_Sleeve3
+    400070: Hp_Grenade_Gun_Sleeve4
+    400072: Hp_Grenade_Gun_Sleeve5
+    400074: Hp_Grenade_Gun_Sleeve6
+    400076: Left
+    400078: Left_Elbow
+    400080: Left_IndexFinger01
+    400082: Left_IndexFinger02
+    400084: Left_IndexFinger03
+    400086: Left_IndexFinger04
+    400088: Left_MiddleFinger01
+    400090: Left_MiddleFinger02
+    400092: Left_MiddleFinger03
+    400094: Left_MiddleFinger04
+    400096: Left_Palm
+    400098: Left_Pinky01
+    400100: Left_Pinky02
+    400102: Left_Pinky03
+    400104: Left_Pinky04
+    400106: 'Left_PinkyFinger02 '
+    400108: 'Left_PinkyFinger03 '
+    400110: Left_RingFinger01
+    400112: Left_RingFinger02
+    400114: Left_RingFinger03
+    400116: Left_RingFinger04
+    400118: Left_Shoulder
+    400120: Left_Thumb01
+    400122: Left_Wrist_End
+    400124: Left_Wrist_Start
+    400126: polySurface3
+    400128: Right
+    400130: Right_Elbow
+    400132: Right_Hand
+    400134: Right_IndexFinger01
+    400136: Right_IndexFinger02
+    400138: Right_IndexFinger03
+    400140: Right_IndexFinger04
+    400142: Right_MiddleFinger01
+    400144: Right_MiddleFinger02
+    400146: Right_MiddleFinger03
+    400148: Right_MiddleFinger04
+    400150: Right_Palm
+    400152: Right_Pinky01
+    400154: Right_Pinky02
+    400156: Right_Pinky03
+    400158: Right_Pinky04
+    400160: Right_RingFinger01
+    400162: Right_RingFinger02
+    400164: Right_RingFinger03
+    400166: Right_RingFinger04
+    400168: Right_Shoulder
+    400170: Right_Thumb01
+    400172: Right_Thumb02
+    400174: Right_Thumb03
+    400176: Right_Wrist_End
+    400178: Right_Wrist_Start
+    400180: Trigger
+    400182: TriggerLocator
+    400184: WeaponMainLocator
+    2300000: polySurface3
+    2300002: Trigger
+    3300000: polySurface3
+    3300002: Trigger
+    4300000: Trigger
+    4300002: polySurface3
+    4300004: Right
+    4300006: Left
+    4300008: Grenade_Gun_Sleeve_Mesh1
+    4300010: Grenade_Gun_Sleeve_Mesh2
+    4300012: Grenade_Gun_Sleeve_Mesh3
+    4300014: Grenade_Gun_Sleeve_Mesh4
+    4300016: Grenade_Gun_Sleeve_Mesh5
+    4300018: Grenade_Gun_Sleeve_Mesh6
+    4300020: Grenade_Gun_Drum_Mesh
+    4300022: Grenade_Gun_Bse1_Mesh
+    7400000: Animation
+    9500000: //RootNode
+    13700000: Grenade_Gun_Bse1_Mesh
+    13700002: Grenade_Gun_Drum_Mesh
+    13700004: Grenade_Gun_Sleeve_Mesh1
+    13700006: Grenade_Gun_Sleeve_Mesh2
+    13700008: Grenade_Gun_Sleeve_Mesh3
+    13700010: Grenade_Gun_Sleeve_Mesh4
+    13700012: Grenade_Gun_Sleeve_Mesh5
+    13700014: Grenade_Gun_Sleeve_Mesh6
+    13700016: Left
+    13700018: Right
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

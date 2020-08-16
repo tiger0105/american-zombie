@@ -1,0 +1,285 @@
+fileFormatVersion: 2
+guid: 0648c915bd414d1438f21ee812108731
+timeCreated: 1563927499
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Automatic_Rifle_Aim_Mesh02
+    100002: Automatic_Rifle_Body_Mesh02
+    100004: Automatic_Rifle_detail01
+    100006: Automatic_Rifle_Detail02
+    100008: Automatic_Rifle_Detail_Mesh
+    100010: Automatic_Rifle_Flaslight_Mesh02
+    100012: Automatic_Rifle_Glasses_Mesh02
+    100014: Automatic_Rifle_Grenade_Gun_Mesh02
+    100016: Automatic_Rifle_Magazine_Mesh02
+    100018: Automatic_Rifle_Mufller_Mesh02
+    100020: Automatic_Rifle_Trigger_Mesh
+    100022: //RootNode
+    100024: B_Automatic_Rifle_Body
+    100026: B_Automatic_Rifle_detail01
+    100028: B_Automatic_Rifle_Magazine
+    100030: B_Automatic_Rifle_Trigger
+    100032: Camera002
+    100034: ClipLocator1
+    100036: ClipLocator2
+    100038: Directional Light
+    100040: FullBodyIK
+    100042: Goal
+    100044: 'Goal '
+    100046: Goal  1
+    100048: Goal  2
+    100050: Goal  3
+    100052: Goal  4
+    100054: Home
+    100056: Left
+    100058: Left_Elbow
+    100060: Left_IndexFinger01
+    100062: Left_IndexFinger02
+    100064: Left_IndexFinger03
+    100066: Left_IndexFinger04
+    100068: Left_MiddleFinger01
+    100070: Left_MiddleFinger02
+    100072: Left_MiddleFinger03
+    100074: Left_MiddleFinger04
+    100076: Left_Palm
+    100078: Left_Pinky01
+    100080: Left_Pinky02
+    100082: Left_Pinky03
+    100084: Left_Pinky04
+    100086: 'Left_PinkyFinger02 '
+    100088: 'Left_PinkyFinger03 '
+    100090: Left_RingFinger01
+    100092: Left_RingFinger02
+    100094: Left_RingFinger03
+    100096: Left_RingFinger04
+    100098: Left_Shoulder
+    100100: Left_Thumb01
+    100102: Left_Wrist_End
+    100104: Left_Wrist_Start
+    100106: LeftHandClipLocator
+    100108: locator1
+    100110: P_Automatic_Rifle_Body
+    100112: P_Automatic_Rifle_detail01
+    100114: P_Automatic_Rifle_Magazine
+    100116: P_Automatic_Rifle_Trigger
+    100118: ReloadLocator
+    100120: Right
+    100122: Right_Elbow
+    100124: Right_IndexFinger01
+    100126: Right_IndexFinger02
+    100128: Right_IndexFinger03
+    100130: Right_IndexFinger04
+    100132: Right_MiddleFinger01
+    100134: Right_MiddleFinger02
+    100136: Right_MiddleFinger03
+    100138: Right_MiddleFinger04
+    100140: Right_Palm
+    100142: Right_Pinky01
+    100144: Right_Pinky02
+    100146: Right_Pinky03
+    100148: Right_Pinky04
+    100150: Right_RingFinger01
+    100152: Right_RingFinger02
+    100154: Right_RingFinger03
+    100156: Right_RingFinger04
+    100158: Right_Shoulder
+    100160: Right_Thumb01
+    100162: Right_Thumb02
+    100164: Right_Thumb03
+    100166: Right_Wrist_End
+    100168: Right_Wrist_Start
+    100170: RightHand
+    100172: Texture Group
+    100174: TriggerLocator
+    100176: Untitled.lxp
+    100178: WeaponMainLocator
+    400000: Automatic_Rifle_Aim_Mesh02
+    400002: Automatic_Rifle_Body_Mesh02
+    400004: Automatic_Rifle_detail01
+    400006: Automatic_Rifle_Detail02
+    400008: Automatic_Rifle_Detail_Mesh
+    400010: Automatic_Rifle_Flaslight_Mesh02
+    400012: Automatic_Rifle_Glasses_Mesh02
+    400014: Automatic_Rifle_Grenade_Gun_Mesh02
+    400016: Automatic_Rifle_Magazine_Mesh02
+    400018: Automatic_Rifle_Mufller_Mesh02
+    400020: Automatic_Rifle_Trigger_Mesh
+    400022: //RootNode
+    400024: B_Automatic_Rifle_Body
+    400026: B_Automatic_Rifle_detail01
+    400028: B_Automatic_Rifle_Magazine
+    400030: B_Automatic_Rifle_Trigger
+    400032: Camera002
+    400034: ClipLocator1
+    400036: ClipLocator2
+    400038: Directional Light
+    400040: FullBodyIK
+    400042: Goal
+    400044: 'Goal '
+    400046: Goal  1
+    400048: Goal  2
+    400050: Goal  3
+    400052: Goal  4
+    400054: Home
+    400056: Left
+    400058: Left_Elbow
+    400060: Left_IndexFinger01
+    400062: Left_IndexFinger02
+    400064: Left_IndexFinger03
+    400066: Left_IndexFinger04
+    400068: Left_MiddleFinger01
+    400070: Left_MiddleFinger02
+    400072: Left_MiddleFinger03
+    400074: Left_MiddleFinger04
+    400076: Left_Palm
+    400078: Left_Pinky01
+    400080: Left_Pinky02
+    400082: Left_Pinky03
+    400084: Left_Pinky04
+    400086: 'Left_PinkyFinger02 '
+    400088: 'Left_PinkyFinger03 '
+    400090: Left_RingFinger01
+    400092: Left_RingFinger02
+    400094: Left_RingFinger03
+    400096: Left_RingFinger04
+    400098: Left_Shoulder
+    400100: Left_Thumb01
+    400102: Left_Wrist_End
+    400104: Left_Wrist_Start
+    400106: LeftHandClipLocator
+    400108: locator1
+    400110: P_Automatic_Rifle_Body
+    400112: P_Automatic_Rifle_detail01
+    400114: P_Automatic_Rifle_Magazine
+    400116: P_Automatic_Rifle_Trigger
+    400118: ReloadLocator
+    400120: Right
+    400122: Right_Elbow
+    400124: Right_IndexFinger01
+    400126: Right_IndexFinger02
+    400128: Right_IndexFinger03
+    400130: Right_IndexFinger04
+    400132: Right_MiddleFinger01
+    400134: Right_MiddleFinger02
+    400136: Right_MiddleFinger03
+    400138: Right_MiddleFinger04
+    400140: Right_Palm
+    400142: Right_Pinky01
+    400144: Right_Pinky02
+    400146: Right_Pinky03
+    400148: Right_Pinky04
+    400150: Right_RingFinger01
+    400152: Right_RingFinger02
+    400154: Right_RingFinger03
+    400156: Right_RingFinger04
+    400158: Right_Shoulder
+    400160: Right_Thumb01
+    400162: Right_Thumb02
+    400164: Right_Thumb03
+    400166: Right_Wrist_End
+    400168: Right_Wrist_Start
+    400170: RightHand
+    400172: Texture Group
+    400174: TriggerLocator
+    400176: Untitled.lxp
+    400178: WeaponMainLocator
+    4300000: Automatic_Rifle_Grenade_Gun_Mesh02
+    4300002: Automatic_Rifle_Body_Mesh02
+    4300004: Automatic_Rifle_Magazine_Mesh02
+    4300006: Automatic_Rifle_Mufller_Mesh02
+    4300008: Automatic_Rifle_Aim_Mesh02
+    4300010: Automatic_Rifle_Flaslight_Mesh02
+    4300012: Automatic_Rifle_Detail02
+    4300014: Automatic_Rifle_Glasses_Mesh02
+    4300016: Automatic_Rifle_Detail_Mesh
+    4300018: Automatic_Rifle_detail01
+    4300020: Automatic_Rifle_Trigger_Mesh
+    4300022: Right
+    4300024: Left
+    7400000: Animation
+    9500000: //RootNode
+    13700000: Automatic_Rifle_Aim_Mesh02
+    13700002: Automatic_Rifle_Body_Mesh02
+    13700004: Automatic_Rifle_detail01
+    13700006: Automatic_Rifle_Detail02
+    13700008: Automatic_Rifle_Detail_Mesh
+    13700010: Automatic_Rifle_Flaslight_Mesh02
+    13700012: Automatic_Rifle_Glasses_Mesh02
+    13700014: Automatic_Rifle_Grenade_Gun_Mesh02
+    13700016: Automatic_Rifle_Magazine_Mesh02
+    13700018: Automatic_Rifle_Mufller_Mesh02
+    13700020: Automatic_Rifle_Trigger_Mesh
+    13700022: Left
+    13700024: Right
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
