@@ -1,0 +1,72 @@
+///////////////////////////////////////////////////////////
+// Component Preset Script
+///////////////////////////////////////////////////////////
+
+ComponentType vp_FPWeapon
+RenderingZoomDamping 0.5
+RenderingFieldOfView 12
+RenderingClippingPlanes 0.1 10
+RenderingZScale 1
+PositionSpringStiffness 0.55
+PositionSpringDamping 0.85
+PositionFallRetract 1
+PositionPivotSpringStiffness 0.75
+PositionPivotSpringDamping 0.65
+PositionKneeling 0.1058716
+PositionKneelingSoftness 1
+PositionWalkSlide -2.5 0 0
+PositionPivot 0 0 0
+RotationPivot 0 0 0
+PositionInputVelocityScale 1
+PositionMaxInputVelocity 25
+RotationSpringStiffness 0.05
+RotationSpringDamping 0.5
+RotationPivotSpringStiffness 0.01
+RotationPivotSpringDamping 0.25
+RotationKneeling 20
+RotationKneelingSoftness 5
+RotationLookSway 1 1 0.5
+RotationStrafeSway 0 1 0
+RotationFallSway 2 -0.5 -5
+RotationSlopeSway 0.5
+RotationInputVelocityScale 0.5
+RotationMaxInputVelocity 2
+RetractionDistance 0.5
+RetractionOffset 0 0
+RetractionRelaxSpeed 0.25
+ShakeSpeed 0.4
+ShakeAmplitude 0.025 0 0.045
+BobRate 0.8 -0.4 0.4 0.4
+BobAmplitude 5 0 -25 0
+BobInputVelocityScale 2
+BobMaxInputVelocity 5.5
+BobRequireGroundContact True
+StepPositionForce 0 -0.0012 -0.0012
+StepRotationForce 0.15 0 0
+StepSoftness 20
+StepMinVelocity 5
+StepPositionBalance 0
+StepRotationBalance 0
+StepForceScale 0.86
+LookDownActive False
+LookDownYawLimit 60
+LookDownPositionOffsetMiddle 0.32 -0.37 0.78
+LookDownPositionOffsetLeft 0.27 -0.31 0.7
+LookDownPositionOffsetRight 0.6 -0.41 0.86
+LookDownPositionSpringPower 1
+LookDownRotationOffsetMiddle -3.9 2.24 4.69
+LookDownRotationOffsetLeft -7 -10.5 15.6
+LookDownRotationOffsetRight -9.2 -9.8 48.84
+LookDownRotationSpringPower 1
+AmbientInterval 2.5 7.5
+PositionExitOffset 0 0 0
+RotationExitOffset 40 0 0
+DoSpringsInLateUpdate False
+PositionOffset 0.06 -0.05 0.18
+PositionSpring2Stiffness 0.942029
+PositionSpring2Damping 0.9362319
+RotationOffset 0.88 2.49 0
+RotationSpring2Stiffness 0.95
+RotationSpring2Damping 0.9456522
+AnimationType 1
+AnimationGrip 2

@@ -1,0 +1,2275 @@
+fileFormatVersion: 2
+guid: 4917e0d1308aa584082003adeead8097
+timeCreated: 1565855350
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: FullBodyIK
+    100002: Goal
+    100004: 'Goal '
+    100006: Goal  1
+    100008: Goal  2
+    100010: Goal  3
+    100012: Goal  4
+    100014: group1
+    100016: Home
+    100018: Left
+    100020: Left_Elbow
+    100022: Left_IndexFinger01
+    100024: Left_IndexFinger02
+    100026: Left_IndexFinger03
+    100028: Left_IndexFinger04
+    100030: Left_MiddleFinger01
+    100032: Left_MiddleFinger02
+    100034: Left_MiddleFinger03
+    100036: Left_MiddleFinger04
+    100038: Left_Palm
+    100040: Left_Pinky01
+    100042: Left_Pinky02
+    100044: Left_Pinky03
+    100046: Left_Pinky04
+    100048: 'Left_PinkyFinger02 '
+    100050: 'Left_PinkyFinger03 '
+    100052: Left_RingFinger01
+    100054: Left_RingFinger02
+    100056: Left_RingFinger03
+    100058: Left_RingFinger04
+    100060: Left_Shoulder
+    100062: Left_Thumb01
+    100064: Left_Wrist_End
+    100066: Left_Wrist_Start
+    100068: LeftHandClipLocator
+    100070: Right
+    100072: Right_Elbow
+    100074: Right_IndexFinger01
+    100076: Right_IndexFinger02
+    100078: Right_IndexFinger03
+    100080: Right_IndexFinger04
+    100082: Right_MiddleFinger01
+    100084: Right_MiddleFinger02
+    100086: Right_MiddleFinger03
+    100088: Right_MiddleFinger04
+    100090: Right_Palm
+    100092: Right_Pinky01
+    100094: Right_Pinky02
+    100096: Right_Pinky03
+    100098: Right_Pinky04
+    100100: Right_RingFinger01
+    100102: Right_RingFinger02
+    100104: Right_RingFinger03
+    100106: Right_RingFinger04
+    100108: Right_Shoulder
+    100110: Right_Thumb01
+    100112: Right_Thumb02
+    100114: Right_Thumb03
+    100116: Right_Wrist_End
+    100118: Right_Wrist_Start
+    100120: Snaper_blaster_body
+    100122: Snaper_blaster_ButtonBlue
+    100124: Snaper_blaster_ButtonGreen
+    100126: Snaper_blaster_ButtonRed
+    100128: Snaper_blaster_buttstock
+    100130: Snaper_blaster_DECAL00
+    100132: Snaper_blaster_DECAL01
+    100134: Snaper_blaster_DECAL02
+    100136: Snaper_blaster_DECAL03
+    100138: Snaper_blaster_DECAL04
+    100140: Snaper_blaster_DECAL05
+    100142: Snaper_blaster_DECAL06
+    100144: Snaper_blaster_DECAL07
+    100146: Snaper_blaster_DECAL08
+    100148: Snaper_blaster_DECAL09
+    100150: Snaper_blaster_DECAL10
+    100152: Snaper_blaster_DECAL11
+    100154: Snaper_blaster_DECAL12
+    100156: Snaper_blaster_DECAL13
+    100158: Snaper_blaster_DECAL14
+    100160: Snaper_blaster_DECAL15
+    100162: Snaper_blaster_DECAL16
+    100164: Snaper_blaster_DECAL17
+    100166: Snaper_blaster_DECAL18
+    100168: Snaper_blaster_DECAL19
+    100170: Snaper_blaster_DECAL20
+    100172: Snaper_blaster_DECAL21
+    100174: Snaper_blaster_DECAL22
+    100176: Snaper_blaster_dimmer
+    100178: Snaper_blaster_display
+    100180: Snaper_blaster_displayB
+    100182: //RootNode
+    100184: Snaper_blaster_glass
+    100186: Snaper_blaster_power_00
+    100188: Snaper_blaster_power_01
+    100190: Snaper_blaster_power_02
+    100192: Snaper_blaster_power_03
+    100194: Snaper_blaster_power_04
+    100196: Snaper_blaster_power_05
+    100198: Snaper_blaster_power_06
+    100200: Snaper_blaster_power_07
+    100202: Snaper_blaster_power_08
+    100204: Snaper_blaster_power_09
+    100206: Snaper_blaster_power_10
+    100208: Snaper_blaster_power_11
+    100210: Snaper_blaster_sight
+    100212: Snaper_blaster_sight_dimmer_00
+    100214: Snaper_blaster_sight_dimmer_01
+    100216: Snaper_blaster_sight_dimmer_02
+    100218: Snaper_blaster_sight_display
+    100220: Snaper_blaster_sight_glass
+    100222: Snaper_blaster_trigger
+    100224: Snaper_blaster_visor_display
+    100226: Snaper_blaster_visor_glass
+    400000: FullBodyIK
+    400002: Goal
+    400004: 'Goal '
+    400006: Goal  1
+    400008: Goal  2
+    400010: Goal  3
+    400012: Goal  4
+    400014: group1
+    400016: Home
+    400018: Left
+    400020: Left_Elbow
+    400022: Left_IndexFinger01
+    400024: Left_IndexFinger02
+    400026: Left_IndexFinger03
+    400028: Left_IndexFinger04
+    400030: Left_MiddleFinger01
+    400032: Left_MiddleFinger02
+    400034: Left_MiddleFinger03
+    400036: Left_MiddleFinger04
+    400038: Left_Palm
+    400040: Left_Pinky01
+    400042: Left_Pinky02
+    400044: Left_Pinky03
+    400046: Left_Pinky04
+    400048: 'Left_PinkyFinger02 '
+    400050: 'Left_PinkyFinger03 '
+    400052: Left_RingFinger01
+    400054: Left_RingFinger02
+    400056: Left_RingFinger03
+    400058: Left_RingFinger04
+    400060: Left_Shoulder
+    400062: Left_Thumb01
+    400064: Left_Wrist_End
+    400066: Left_Wrist_Start
+    400068: LeftHandClipLocator
+    400070: Right
+    400072: Right_Elbow
+    400074: Right_IndexFinger01
+    400076: Right_IndexFinger02
+    400078: Right_IndexFinger03
+    400080: Right_IndexFinger04
+    400082: Right_MiddleFinger01
+    400084: Right_MiddleFinger02
+    400086: Right_MiddleFinger03
+    400088: Right_MiddleFinger04
+    400090: Right_Palm
+    400092: Right_Pinky01
+    400094: Right_Pinky02
+    400096: Right_Pinky03
+    400098: Right_Pinky04
+    400100: Right_RingFinger01
+    400102: Right_RingFinger02
+    400104: Right_RingFinger03
+    400106: Right_RingFinger04
+    400108: Right_Shoulder
+    400110: Right_Thumb01
+    400112: Right_Thumb02
+    400114: Right_Thumb03
+    400116: Right_Wrist_End
+    400118: Right_Wrist_Start
+    400120: Snaper_blaster_body
+    400122: Snaper_blaster_ButtonBlue
+    400124: Snaper_blaster_ButtonGreen
+    400126: Snaper_blaster_ButtonRed
+    400128: Snaper_blaster_buttstock
+    400130: Snaper_blaster_DECAL00
+    400132: Snaper_blaster_DECAL01
+    400134: Snaper_blaster_DECAL02
+    400136: Snaper_blaster_DECAL03
+    400138: Snaper_blaster_DECAL04
+    400140: Snaper_blaster_DECAL05
+    400142: Snaper_blaster_DECAL06
+    400144: Snaper_blaster_DECAL07
+    400146: Snaper_blaster_DECAL08
+    400148: Snaper_blaster_DECAL09
+    400150: Snaper_blaster_DECAL10
+    400152: Snaper_blaster_DECAL11
+    400154: Snaper_blaster_DECAL12
+    400156: Snaper_blaster_DECAL13
+    400158: Snaper_blaster_DECAL14
+    400160: Snaper_blaster_DECAL15
+    400162: Snaper_blaster_DECAL16
+    400164: Snaper_blaster_DECAL17
+    400166: Snaper_blaster_DECAL18
+    400168: Snaper_blaster_DECAL19
+    400170: Snaper_blaster_DECAL20
+    400172: Snaper_blaster_DECAL21
+    400174: Snaper_blaster_DECAL22
+    400176: Snaper_blaster_dimmer
+    400178: Snaper_blaster_display
+    400180: Snaper_blaster_displayB
+    400182: //RootNode
+    400184: Snaper_blaster_glass
+    400186: Snaper_blaster_power_00
+    400188: Snaper_blaster_power_01
+    400190: Snaper_blaster_power_02
+    400192: Snaper_blaster_power_03
+    400194: Snaper_blaster_power_04
+    400196: Snaper_blaster_power_05
+    400198: Snaper_blaster_power_06
+    400200: Snaper_blaster_power_07
+    400202: Snaper_blaster_power_08
+    400204: Snaper_blaster_power_09
+    400206: Snaper_blaster_power_10
+    400208: Snaper_blaster_power_11
+    400210: Snaper_blaster_sight
+    400212: Snaper_blaster_sight_dimmer_00
+    400214: Snaper_blaster_sight_dimmer_01
+    400216: Snaper_blaster_sight_dimmer_02
+    400218: Snaper_blaster_sight_display
+    400220: Snaper_blaster_sight_glass
+    400222: Snaper_blaster_trigger
+    400224: Snaper_blaster_visor_display
+    400226: Snaper_blaster_visor_glass
+    2300000: Snaper_blaster_body
+    2300002: Snaper_blaster_ButtonBlue
+    2300004: Snaper_blaster_ButtonGreen
+    2300006: Snaper_blaster_ButtonRed
+    2300008: Snaper_blaster_buttstock
+    2300010: Snaper_blaster_DECAL00
+    2300012: Snaper_blaster_DECAL01
+    2300014: Snaper_blaster_DECAL02
+    2300016: Snaper_blaster_DECAL03
+    2300018: Snaper_blaster_DECAL04
+    2300020: Snaper_blaster_DECAL05
+    2300022: Snaper_blaster_DECAL06
+    2300024: Snaper_blaster_DECAL07
+    2300026: Snaper_blaster_DECAL08
+    2300028: Snaper_blaster_DECAL09
+    2300030: Snaper_blaster_DECAL10
+    2300032: Snaper_blaster_DECAL11
+    2300034: Snaper_blaster_DECAL12
+    2300036: Snaper_blaster_DECAL13
+    2300038: Snaper_blaster_DECAL14
+    2300040: Snaper_blaster_DECAL15
+    2300042: Snaper_blaster_DECAL16
+    2300044: Snaper_blaster_DECAL17
+    2300046: Snaper_blaster_DECAL18
+    2300048: Snaper_blaster_DECAL19
+    2300050: Snaper_blaster_DECAL20
+    2300052: Snaper_blaster_DECAL21
+    2300054: Snaper_blaster_DECAL22
+    2300056: Snaper_blaster_dimmer
+    2300058: Snaper_blaster_display
+    2300060: Snaper_blaster_displayB
+    2300062: Snaper_blaster_glass
+    2300064: Snaper_blaster_power_00
+    2300066: Snaper_blaster_power_01
+    2300068: Snaper_blaster_power_02
+    2300070: Snaper_blaster_power_03
+    2300072: Snaper_blaster_power_04
+    2300074: Snaper_blaster_power_05
+    2300076: Snaper_blaster_power_06
+    2300078: Snaper_blaster_power_07
+    2300080: Snaper_blaster_power_08
+    2300082: Snaper_blaster_power_09
+    2300084: Snaper_blaster_power_10
+    2300086: Snaper_blaster_power_11
+    2300088: Snaper_blaster_sight
+    2300090: Snaper_blaster_sight_dimmer_00
+    2300092: Snaper_blaster_sight_dimmer_01
+    2300094: Snaper_blaster_sight_dimmer_02
+    2300096: Snaper_blaster_sight_display
+    2300098: Snaper_blaster_sight_glass
+    2300100: Snaper_blaster_trigger
+    2300102: Snaper_blaster_visor_display
+    2300104: Snaper_blaster_visor_glass
+    3300000: Snaper_blaster_body
+    3300002: Snaper_blaster_ButtonBlue
+    3300004: Snaper_blaster_ButtonGreen
+    3300006: Snaper_blaster_ButtonRed
+    3300008: Snaper_blaster_buttstock
+    3300010: Snaper_blaster_DECAL00
+    3300012: Snaper_blaster_DECAL01
+    3300014: Snaper_blaster_DECAL02
+    3300016: Snaper_blaster_DECAL03
+    3300018: Snaper_blaster_DECAL04
+    3300020: Snaper_blaster_DECAL05
+    3300022: Snaper_blaster_DECAL06
+    3300024: Snaper_blaster_DECAL07
+    3300026: Snaper_blaster_DECAL08
+    3300028: Snaper_blaster_DECAL09
+    3300030: Snaper_blaster_DECAL10
+    3300032: Snaper_blaster_DECAL11
+    3300034: Snaper_blaster_DECAL12
+    3300036: Snaper_blaster_DECAL13
+    3300038: Snaper_blaster_DECAL14
+    3300040: Snaper_blaster_DECAL15
+    3300042: Snaper_blaster_DECAL16
+    3300044: Snaper_blaster_DECAL17
+    3300046: Snaper_blaster_DECAL18
+    3300048: Snaper_blaster_DECAL19
+    3300050: Snaper_blaster_DECAL20
+    3300052: Snaper_blaster_DECAL21
+    3300054: Snaper_blaster_DECAL22
+    3300056: Snaper_blaster_dimmer
+    3300058: Snaper_blaster_display
+    3300060: Snaper_blaster_displayB
+    3300062: Snaper_blaster_glass
+    3300064: Snaper_blaster_power_00
+    3300066: Snaper_blaster_power_01
+    3300068: Snaper_blaster_power_02
+    3300070: Snaper_blaster_power_03
+    3300072: Snaper_blaster_power_04
+    3300074: Snaper_blaster_power_05
+    3300076: Snaper_blaster_power_06
+    3300078: Snaper_blaster_power_07
+    3300080: Snaper_blaster_power_08
+    3300082: Snaper_blaster_power_09
+    3300084: Snaper_blaster_power_10
+    3300086: Snaper_blaster_power_11
+    3300088: Snaper_blaster_sight
+    3300090: Snaper_blaster_sight_dimmer_00
+    3300092: Snaper_blaster_sight_dimmer_01
+    3300094: Snaper_blaster_sight_dimmer_02
+    3300096: Snaper_blaster_sight_display
+    3300098: Snaper_blaster_sight_glass
+    3300100: Snaper_blaster_trigger
+    3300102: Snaper_blaster_visor_display
+    3300104: Snaper_blaster_visor_glass
+    4300000: Snaper_blaster_sight
+    4300002: Snaper_blaster_DECAL02
+    4300004: Snaper_blaster_DECAL05
+    4300006: Snaper_blaster_DECAL00
+    4300008: Snaper_blaster_DECAL03
+    4300010: Snaper_blaster_DECAL04
+    4300012: Snaper_blaster_ButtonRed
+    4300014: Snaper_blaster_ButtonGreen
+    4300016: Snaper_blaster_ButtonBlue
+    4300018: Snaper_blaster_glass
+    4300020: Snaper_blaster_sight_display
+    4300022: Snaper_blaster_sight_glass
+    4300024: Snaper_blaster_sight_dimmer_00
+    4300026: Snaper_blaster_sight_dimmer_01
+    4300028: Snaper_blaster_sight_dimmer_02
+    4300030: Snaper_blaster_power_00
+    4300032: Snaper_blaster_power_02
+    4300034: Snaper_blaster_power_05
+    4300036: Snaper_blaster_power_06
+    4300038: Snaper_blaster_power_04
+    4300040: Snaper_blaster_buttstock
+    4300042: Snaper_blaster_power_01
+    4300044: Snaper_blaster_dimmer
+    4300046: Snaper_blaster_DECAL19
+    4300048: Snaper_blaster_DECAL16
+    4300050: Snaper_blaster_power_03
+    4300052: Snaper_blaster_power_08
+    4300054: Snaper_blaster_power_07
+    4300056: Snaper_blaster_power_09
+    4300058: Snaper_blaster_power_10
+    4300060: Snaper_blaster_body
+    4300062: Snaper_blaster_DECAL07
+    4300064: Snaper_blaster_DECAL12
+    4300066: Snaper_blaster_DECAL09
+    4300068: Snaper_blaster_DECAL10
+    4300070: Snaper_blaster_DECAL11
+    4300072: Snaper_blaster_DECAL13
+    4300074: Snaper_blaster_DECAL06
+    4300076: Snaper_blaster_DECAL08
+    4300078: Snaper_blaster_displayB
+    4300080: Snaper_blaster_display
+    4300082: Snaper_blaster_DECAL01
+    4300084: Snaper_blaster_DECAL17
+    4300086: Snaper_blaster_DECAL21
+    4300088: Snaper_blaster_DECAL18
+    4300090: Snaper_blaster_visor_display
+    4300092: Snaper_blaster_visor_glass
+    4300094: Snaper_blaster_DECAL20
+    4300096: Snaper_blaster_DECAL22
+    4300098: Snaper_blaster_DECAL15
+    4300100: Snaper_blaster_DECAL14
+    4300102: Snaper_blaster_trigger
+    4300104: Snaper_blaster_power_11
+    4300106: Right
+    4300108: Left
+    7400000: Idle 02
+    7400002: Idle 01
+    7400004: Idle 03
+    7400006: Idle 04
+    7400008: Fire
+    7400010: Reload
+    7400012: ReloadEm
+    9500000: //RootNode
+    13700000: Left
+    13700002: Right
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle 01
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Goal
+        weight: 1
+      - path: 'Goal '
+        weight: 1
+      - path: Goal  1
+        weight: 1
+      - path: Goal  2
+        weight: 1
+      - path: Goal  3
+        weight: 1
+      - path: Goal  4
+        weight: 1
+      - path: Home
+        weight: 1
+      - path: Home/FullBodyIK
+        weight: 1
+      - path: Home/Left_Shoulder
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_IndexFinger01
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_IndexFinger01/Left_IndexFinger02
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_IndexFinger01/Left_IndexFinger02/Left_IndexFinger03
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_IndexFinger01/Left_IndexFinger02/Left_IndexFinger03/Left_IndexFinger04
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_MiddleFinger01
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_MiddleFinger01/Left_MiddleFinger02
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_MiddleFinger01/Left_MiddleFinger02/Left_MiddleFinger03
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_MiddleFinger01/Left_MiddleFinger02/Left_MiddleFinger03/Left_MiddleFinger04
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_Pinky01
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_Pinky01/Left_Pinky02
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_Pinky01/Left_Pinky02/Left_Pinky03
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_Pinky01/Left_Pinky02/Left_Pinky03/Left_Pinky04
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_RingFinger01
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_RingFinger01/Left_RingFinger02
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_RingFinger01/Left_RingFinger02/Left_RingFinger03
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_RingFinger01/Left_RingFinger02/Left_RingFinger03/Left_RingFinger04
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/LeftHandClipLocator
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Thumb01
+        weight: 1
+      - path: 'Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Thumb01/Left_PinkyFinger02 '
+        weight: 1
+      - path: 'Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Thumb01/Left_PinkyFinger02
+          /Left_PinkyFinger03 '
+        weight: 1
+      - path: Home/Right_Shoulder
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL06
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL07
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL08
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL09
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL10
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL11
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL12
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL13
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL14
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL15
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL17
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL18
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL20
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL21
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL22
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_visor_display
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_visor_glass
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_buttstock
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_dimmer
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_dimmer/Snaper_blaster_DECAL16
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_dimmer/Snaper_blaster_DECAL19
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_glass
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_00
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_05
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_06
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_07
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_08
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_09
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_10
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_11
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_ButtonBlue
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_ButtonGreen
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_ButtonRed
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_DECAL00
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_DECAL02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_DECAL03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_DECAL04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_DECAL05
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight_dimmer_00
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight_dimmer_01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight_dimmer_02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight_display
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight_glass
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_trigger
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_IndexFinger01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_IndexFinger01/Right_IndexFinger02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_IndexFinger01/Right_IndexFinger02/Right_IndexFinger03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_IndexFinger01/Right_IndexFinger02/Right_IndexFinger03/Right_IndexFinger04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_MiddleFinger01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_MiddleFinger01/Right_MiddleFinger02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_MiddleFinger01/Right_MiddleFinger02/Right_MiddleFinger03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_MiddleFinger01/Right_MiddleFinger02/Right_MiddleFinger03/Right_MiddleFinger04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_Pinky01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_Pinky01/Right_Pinky02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_Pinky01/Right_Pinky02/Right_Pinky03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_Pinky01/Right_Pinky02/Right_Pinky03/Right_Pinky04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_RingFinger01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_RingFinger01/Right_RingFinger02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_RingFinger01/Right_RingFinger02/Right_RingFinger03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_RingFinger01/Right_RingFinger02/Right_RingFinger03/Right_RingFinger04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Thumb01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Thumb01/Right_Thumb02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Thumb01/Right_Thumb02/Right_Thumb03
+        weight: 1
+      - path: Left
+        weight: 1
+      - path: Right
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle 02
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Goal
+        weight: 1
+      - path: 'Goal '
+        weight: 1
+      - path: Goal  1
+        weight: 1
+      - path: Goal  2
+        weight: 1
+      - path: Goal  3
+        weight: 1
+      - path: Goal  4
+        weight: 1
+      - path: Home
+        weight: 1
+      - path: Home/FullBodyIK
+        weight: 1
+      - path: Home/Left_Shoulder
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_IndexFinger01
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_IndexFinger01/Left_IndexFinger02
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_IndexFinger01/Left_IndexFinger02/Left_IndexFinger03
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_IndexFinger01/Left_IndexFinger02/Left_IndexFinger03/Left_IndexFinger04
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_MiddleFinger01
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_MiddleFinger01/Left_MiddleFinger02
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_MiddleFinger01/Left_MiddleFinger02/Left_MiddleFinger03
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_MiddleFinger01/Left_MiddleFinger02/Left_MiddleFinger03/Left_MiddleFinger04
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_Pinky01
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_Pinky01/Left_Pinky02
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_Pinky01/Left_Pinky02/Left_Pinky03
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_Pinky01/Left_Pinky02/Left_Pinky03/Left_Pinky04
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_RingFinger01
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_RingFinger01/Left_RingFinger02
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_RingFinger01/Left_RingFinger02/Left_RingFinger03
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_RingFinger01/Left_RingFinger02/Left_RingFinger03/Left_RingFinger04
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/LeftHandClipLocator
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Thumb01
+        weight: 1
+      - path: 'Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Thumb01/Left_PinkyFinger02 '
+        weight: 1
+      - path: 'Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Thumb01/Left_PinkyFinger02
+          /Left_PinkyFinger03 '
+        weight: 1
+      - path: Home/Right_Shoulder
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL06
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL07
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL08
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL09
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL10
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL11
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL12
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL13
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL14
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL15
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL17
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL18
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL20
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL21
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL22
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_visor_display
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_visor_glass
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_buttstock
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_dimmer
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_dimmer/Snaper_blaster_DECAL16
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_dimmer/Snaper_blaster_DECAL19
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_glass
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_00
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_05
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_06
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_07
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_08
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_09
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_10
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_11
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_ButtonBlue
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_ButtonGreen
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_ButtonRed
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_DECAL00
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_DECAL02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_DECAL03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_DECAL04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_DECAL05
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight_dimmer_00
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight_dimmer_01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight_dimmer_02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight_display
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight_glass
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_trigger
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_IndexFinger01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_IndexFinger01/Right_IndexFinger02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_IndexFinger01/Right_IndexFinger02/Right_IndexFinger03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_IndexFinger01/Right_IndexFinger02/Right_IndexFinger03/Right_IndexFinger04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_MiddleFinger01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_MiddleFinger01/Right_MiddleFinger02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_MiddleFinger01/Right_MiddleFinger02/Right_MiddleFinger03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_MiddleFinger01/Right_MiddleFinger02/Right_MiddleFinger03/Right_MiddleFinger04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_Pinky01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_Pinky01/Right_Pinky02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_Pinky01/Right_Pinky02/Right_Pinky03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_Pinky01/Right_Pinky02/Right_Pinky03/Right_Pinky04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_RingFinger01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_RingFinger01/Right_RingFinger02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_RingFinger01/Right_RingFinger02/Right_RingFinger03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_RingFinger01/Right_RingFinger02/Right_RingFinger03/Right_RingFinger04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Thumb01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Thumb01/Right_Thumb02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Thumb01/Right_Thumb02/Right_Thumb03
+        weight: 1
+      - path: Left
+        weight: 1
+      - path: Right
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle 03
+      takeName: Take 001
+      firstFrame: 100
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Goal
+        weight: 1
+      - path: 'Goal '
+        weight: 1
+      - path: Goal  1
+        weight: 1
+      - path: Goal  2
+        weight: 1
+      - path: Goal  3
+        weight: 1
+      - path: Goal  4
+        weight: 1
+      - path: Home
+        weight: 1
+      - path: Home/FullBodyIK
+        weight: 1
+      - path: Home/Left_Shoulder
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_IndexFinger01
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_IndexFinger01/Left_IndexFinger02
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_IndexFinger01/Left_IndexFinger02/Left_IndexFinger03
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_IndexFinger01/Left_IndexFinger02/Left_IndexFinger03/Left_IndexFinger04
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_MiddleFinger01
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_MiddleFinger01/Left_MiddleFinger02
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_MiddleFinger01/Left_MiddleFinger02/Left_MiddleFinger03
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_MiddleFinger01/Left_MiddleFinger02/Left_MiddleFinger03/Left_MiddleFinger04
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_Pinky01
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_Pinky01/Left_Pinky02
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_Pinky01/Left_Pinky02/Left_Pinky03
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_Pinky01/Left_Pinky02/Left_Pinky03/Left_Pinky04
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_RingFinger01
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_RingFinger01/Left_RingFinger02
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_RingFinger01/Left_RingFinger02/Left_RingFinger03
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_RingFinger01/Left_RingFinger02/Left_RingFinger03/Left_RingFinger04
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/LeftHandClipLocator
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Thumb01
+        weight: 1
+      - path: 'Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Thumb01/Left_PinkyFinger02 '
+        weight: 1
+      - path: 'Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Thumb01/Left_PinkyFinger02
+          /Left_PinkyFinger03 '
+        weight: 1
+      - path: Home/Right_Shoulder
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL06
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL07
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL08
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL09
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL10
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL11
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL12
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL13
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL14
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL15
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL17
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL18
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL20
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL21
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL22
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_visor_display
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_visor_glass
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_buttstock
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_dimmer
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_dimmer/Snaper_blaster_DECAL16
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_dimmer/Snaper_blaster_DECAL19
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_glass
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_00
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_05
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_06
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_07
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_08
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_09
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_10
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_11
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_ButtonBlue
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_ButtonGreen
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_ButtonRed
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_DECAL00
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_DECAL02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_DECAL03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_DECAL04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_DECAL05
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight_dimmer_00
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight_dimmer_01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight_dimmer_02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight_display
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight_glass
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_trigger
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_IndexFinger01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_IndexFinger01/Right_IndexFinger02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_IndexFinger01/Right_IndexFinger02/Right_IndexFinger03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_IndexFinger01/Right_IndexFinger02/Right_IndexFinger03/Right_IndexFinger04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_MiddleFinger01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_MiddleFinger01/Right_MiddleFinger02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_MiddleFinger01/Right_MiddleFinger02/Right_MiddleFinger03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_MiddleFinger01/Right_MiddleFinger02/Right_MiddleFinger03/Right_MiddleFinger04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_Pinky01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_Pinky01/Right_Pinky02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_Pinky01/Right_Pinky02/Right_Pinky03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_Pinky01/Right_Pinky02/Right_Pinky03/Right_Pinky04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_RingFinger01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_RingFinger01/Right_RingFinger02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_RingFinger01/Right_RingFinger02/Right_RingFinger03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_RingFinger01/Right_RingFinger02/Right_RingFinger03/Right_RingFinger04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Thumb01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Thumb01/Right_Thumb02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Thumb01/Right_Thumb02/Right_Thumb03
+        weight: 1
+      - path: Left
+        weight: 1
+      - path: Right
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle 04
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Goal
+        weight: 1
+      - path: 'Goal '
+        weight: 1
+      - path: Goal  1
+        weight: 1
+      - path: Goal  2
+        weight: 1
+      - path: Goal  3
+        weight: 1
+      - path: Goal  4
+        weight: 1
+      - path: Home
+        weight: 1
+      - path: Home/FullBodyIK
+        weight: 1
+      - path: Home/Left_Shoulder
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_IndexFinger01
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_IndexFinger01/Left_IndexFinger02
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_IndexFinger01/Left_IndexFinger02/Left_IndexFinger03
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_IndexFinger01/Left_IndexFinger02/Left_IndexFinger03/Left_IndexFinger04
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_MiddleFinger01
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_MiddleFinger01/Left_MiddleFinger02
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_MiddleFinger01/Left_MiddleFinger02/Left_MiddleFinger03
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_MiddleFinger01/Left_MiddleFinger02/Left_MiddleFinger03/Left_MiddleFinger04
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_Pinky01
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_Pinky01/Left_Pinky02
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_Pinky01/Left_Pinky02/Left_Pinky03
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_Pinky01/Left_Pinky02/Left_Pinky03/Left_Pinky04
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_RingFinger01
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_RingFinger01/Left_RingFinger02
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_RingFinger01/Left_RingFinger02/Left_RingFinger03
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_RingFinger01/Left_RingFinger02/Left_RingFinger03/Left_RingFinger04
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/LeftHandClipLocator
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Thumb01
+        weight: 1
+      - path: 'Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Thumb01/Left_PinkyFinger02 '
+        weight: 1
+      - path: 'Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Thumb01/Left_PinkyFinger02
+          /Left_PinkyFinger03 '
+        weight: 1
+      - path: Home/Right_Shoulder
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL06
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL07
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL08
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL09
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL10
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL11
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL12
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL13
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL14
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL15
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL17
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL18
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL20
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL21
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL22
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_visor_display
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_visor_glass
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_buttstock
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_dimmer
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_dimmer/Snaper_blaster_DECAL16
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_dimmer/Snaper_blaster_DECAL19
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_glass
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_00
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_05
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_06
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_07
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_08
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_09
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_10
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_11
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_ButtonBlue
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_ButtonGreen
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_ButtonRed
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_DECAL00
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_DECAL02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_DECAL03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_DECAL04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_DECAL05
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight_dimmer_00
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight_dimmer_01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight_dimmer_02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight_display
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight_glass
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_trigger
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_IndexFinger01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_IndexFinger01/Right_IndexFinger02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_IndexFinger01/Right_IndexFinger02/Right_IndexFinger03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_IndexFinger01/Right_IndexFinger02/Right_IndexFinger03/Right_IndexFinger04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_MiddleFinger01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_MiddleFinger01/Right_MiddleFinger02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_MiddleFinger01/Right_MiddleFinger02/Right_MiddleFinger03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_MiddleFinger01/Right_MiddleFinger02/Right_MiddleFinger03/Right_MiddleFinger04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_Pinky01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_Pinky01/Right_Pinky02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_Pinky01/Right_Pinky02/Right_Pinky03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_Pinky01/Right_Pinky02/Right_Pinky03/Right_Pinky04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_RingFinger01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_RingFinger01/Right_RingFinger02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_RingFinger01/Right_RingFinger02/Right_RingFinger03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_RingFinger01/Right_RingFinger02/Right_RingFinger03/Right_RingFinger04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Thumb01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Thumb01/Right_Thumb02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Thumb01/Right_Thumb02/Right_Thumb03
+        weight: 1
+      - path: Left
+        weight: 1
+      - path: Right
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fire
+      takeName: Take 001
+      firstFrame: 150
+      lastFrame: 210
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Goal
+        weight: 1
+      - path: 'Goal '
+        weight: 1
+      - path: Goal  1
+        weight: 1
+      - path: Goal  2
+        weight: 1
+      - path: Goal  3
+        weight: 1
+      - path: Goal  4
+        weight: 1
+      - path: Home
+        weight: 1
+      - path: Home/FullBodyIK
+        weight: 1
+      - path: Home/Left_Shoulder
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_IndexFinger01
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_IndexFinger01/Left_IndexFinger02
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_IndexFinger01/Left_IndexFinger02/Left_IndexFinger03
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_IndexFinger01/Left_IndexFinger02/Left_IndexFinger03/Left_IndexFinger04
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_MiddleFinger01
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_MiddleFinger01/Left_MiddleFinger02
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_MiddleFinger01/Left_MiddleFinger02/Left_MiddleFinger03
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_MiddleFinger01/Left_MiddleFinger02/Left_MiddleFinger03/Left_MiddleFinger04
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_Pinky01
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_Pinky01/Left_Pinky02
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_Pinky01/Left_Pinky02/Left_Pinky03
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_Pinky01/Left_Pinky02/Left_Pinky03/Left_Pinky04
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_RingFinger01
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_RingFinger01/Left_RingFinger02
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_RingFinger01/Left_RingFinger02/Left_RingFinger03
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_RingFinger01/Left_RingFinger02/Left_RingFinger03/Left_RingFinger04
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/LeftHandClipLocator
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Thumb01
+        weight: 1
+      - path: 'Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Thumb01/Left_PinkyFinger02 '
+        weight: 1
+      - path: 'Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Thumb01/Left_PinkyFinger02
+          /Left_PinkyFinger03 '
+        weight: 1
+      - path: Home/Right_Shoulder
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL06
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL07
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL08
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL09
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL10
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL11
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL12
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL13
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL14
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL15
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL17
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL18
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL20
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL21
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL22
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_visor_display
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_visor_glass
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_buttstock
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_dimmer
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_dimmer/Snaper_blaster_DECAL16
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_dimmer/Snaper_blaster_DECAL19
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_glass
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_00
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_05
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_06
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_07
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_08
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_09
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_10
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_11
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_ButtonBlue
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_ButtonGreen
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_ButtonRed
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_DECAL00
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_DECAL02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_DECAL03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_DECAL04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_DECAL05
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight_dimmer_00
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight_dimmer_01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight_dimmer_02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight_display
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight_glass
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_trigger
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_IndexFinger01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_IndexFinger01/Right_IndexFinger02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_IndexFinger01/Right_IndexFinger02/Right_IndexFinger03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_IndexFinger01/Right_IndexFinger02/Right_IndexFinger03/Right_IndexFinger04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_MiddleFinger01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_MiddleFinger01/Right_MiddleFinger02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_MiddleFinger01/Right_MiddleFinger02/Right_MiddleFinger03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_MiddleFinger01/Right_MiddleFinger02/Right_MiddleFinger03/Right_MiddleFinger04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_Pinky01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_Pinky01/Right_Pinky02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_Pinky01/Right_Pinky02/Right_Pinky03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_Pinky01/Right_Pinky02/Right_Pinky03/Right_Pinky04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_RingFinger01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_RingFinger01/Right_RingFinger02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_RingFinger01/Right_RingFinger02/Right_RingFinger03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_RingFinger01/Right_RingFinger02/Right_RingFinger03/Right_RingFinger04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Thumb01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Thumb01/Right_Thumb02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Thumb01/Right_Thumb02/Right_Thumb03
+        weight: 1
+      - path: Left
+        weight: 1
+      - path: Right
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Reload
+      takeName: Take 001
+      firstFrame: 220
+      lastFrame: 280
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Goal
+        weight: 1
+      - path: 'Goal '
+        weight: 1
+      - path: Goal  1
+        weight: 1
+      - path: Goal  2
+        weight: 1
+      - path: Goal  3
+        weight: 1
+      - path: Goal  4
+        weight: 1
+      - path: Home
+        weight: 1
+      - path: Home/FullBodyIK
+        weight: 1
+      - path: Home/Left_Shoulder
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_IndexFinger01
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_IndexFinger01/Left_IndexFinger02
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_IndexFinger01/Left_IndexFinger02/Left_IndexFinger03
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_IndexFinger01/Left_IndexFinger02/Left_IndexFinger03/Left_IndexFinger04
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_MiddleFinger01
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_MiddleFinger01/Left_MiddleFinger02
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_MiddleFinger01/Left_MiddleFinger02/Left_MiddleFinger03
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_MiddleFinger01/Left_MiddleFinger02/Left_MiddleFinger03/Left_MiddleFinger04
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_Pinky01
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_Pinky01/Left_Pinky02
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_Pinky01/Left_Pinky02/Left_Pinky03
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_Pinky01/Left_Pinky02/Left_Pinky03/Left_Pinky04
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_RingFinger01
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_RingFinger01/Left_RingFinger02
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_RingFinger01/Left_RingFinger02/Left_RingFinger03
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_RingFinger01/Left_RingFinger02/Left_RingFinger03/Left_RingFinger04
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/LeftHandClipLocator
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Thumb01
+        weight: 1
+      - path: 'Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Thumb01/Left_PinkyFinger02 '
+        weight: 1
+      - path: 'Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Thumb01/Left_PinkyFinger02
+          /Left_PinkyFinger03 '
+        weight: 1
+      - path: Home/Right_Shoulder
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL06
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL07
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL08
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL09
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL10
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL11
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL12
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL13
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL14
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL15
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL17
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL18
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL20
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL21
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL22
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_visor_display
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_visor_glass
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_buttstock
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_dimmer
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_dimmer/Snaper_blaster_DECAL16
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_dimmer/Snaper_blaster_DECAL19
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_glass
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_00
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_05
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_06
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_07
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_08
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_09
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_10
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_11
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_ButtonBlue
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_ButtonGreen
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_ButtonRed
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_DECAL00
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_DECAL02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_DECAL03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_DECAL04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_DECAL05
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight_dimmer_00
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight_dimmer_01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight_dimmer_02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight_display
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight_glass
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_trigger
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_IndexFinger01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_IndexFinger01/Right_IndexFinger02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_IndexFinger01/Right_IndexFinger02/Right_IndexFinger03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_IndexFinger01/Right_IndexFinger02/Right_IndexFinger03/Right_IndexFinger04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_MiddleFinger01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_MiddleFinger01/Right_MiddleFinger02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_MiddleFinger01/Right_MiddleFinger02/Right_MiddleFinger03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_MiddleFinger01/Right_MiddleFinger02/Right_MiddleFinger03/Right_MiddleFinger04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_Pinky01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_Pinky01/Right_Pinky02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_Pinky01/Right_Pinky02/Right_Pinky03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_Pinky01/Right_Pinky02/Right_Pinky03/Right_Pinky04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_RingFinger01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_RingFinger01/Right_RingFinger02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_RingFinger01/Right_RingFinger02/Right_RingFinger03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_RingFinger01/Right_RingFinger02/Right_RingFinger03/Right_RingFinger04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Thumb01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Thumb01/Right_Thumb02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Thumb01/Right_Thumb02/Right_Thumb03
+        weight: 1
+      - path: Left
+        weight: 1
+      - path: Right
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ReloadEm
+      takeName: Take 001
+      firstFrame: 290
+      lastFrame: 340
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Goal
+        weight: 1
+      - path: 'Goal '
+        weight: 1
+      - path: Goal  1
+        weight: 1
+      - path: Goal  2
+        weight: 1
+      - path: Goal  3
+        weight: 1
+      - path: Goal  4
+        weight: 1
+      - path: Home
+        weight: 1
+      - path: Home/FullBodyIK
+        weight: 1
+      - path: Home/Left_Shoulder
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_IndexFinger01
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_IndexFinger01/Left_IndexFinger02
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_IndexFinger01/Left_IndexFinger02/Left_IndexFinger03
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_IndexFinger01/Left_IndexFinger02/Left_IndexFinger03/Left_IndexFinger04
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_MiddleFinger01
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_MiddleFinger01/Left_MiddleFinger02
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_MiddleFinger01/Left_MiddleFinger02/Left_MiddleFinger03
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_MiddleFinger01/Left_MiddleFinger02/Left_MiddleFinger03/Left_MiddleFinger04
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_Pinky01
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_Pinky01/Left_Pinky02
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_Pinky01/Left_Pinky02/Left_Pinky03
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_Pinky01/Left_Pinky02/Left_Pinky03/Left_Pinky04
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_RingFinger01
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_RingFinger01/Left_RingFinger02
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_RingFinger01/Left_RingFinger02/Left_RingFinger03
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/Left_RingFinger01/Left_RingFinger02/Left_RingFinger03/Left_RingFinger04
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Palm/LeftHandClipLocator
+        weight: 1
+      - path: Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Thumb01
+        weight: 1
+      - path: 'Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Thumb01/Left_PinkyFinger02 '
+        weight: 1
+      - path: 'Home/Left_Shoulder/Left_Elbow/Left_Wrist_Start/Left_Wrist_End/Left_Thumb01/Left_PinkyFinger02
+          /Left_PinkyFinger03 '
+        weight: 1
+      - path: Home/Right_Shoulder
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL06
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL07
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL08
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL09
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL10
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL11
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL12
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_DECAL13
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL14
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL15
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL17
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL18
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL20
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL21
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_DECAL22
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_visor_display
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_body/Snaper_blaster_displayB/Snaper_blaster_display/Snaper_blaster_visor_glass
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_buttstock
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_dimmer
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_dimmer/Snaper_blaster_DECAL16
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_dimmer/Snaper_blaster_DECAL19
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_glass
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_00
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_05
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_06
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_07
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_08
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_09
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_10
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_power_11
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_ButtonBlue
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_ButtonGreen
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_ButtonRed
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_DECAL00
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_DECAL02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_DECAL03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_DECAL04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight/Snaper_blaster_DECAL05
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight_dimmer_00
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight_dimmer_01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight_dimmer_02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight_display
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_sight_glass
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/group1/Snaper_blaster_trigger
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_IndexFinger01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_IndexFinger01/Right_IndexFinger02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_IndexFinger01/Right_IndexFinger02/Right_IndexFinger03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_IndexFinger01/Right_IndexFinger02/Right_IndexFinger03/Right_IndexFinger04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_MiddleFinger01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_MiddleFinger01/Right_MiddleFinger02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_MiddleFinger01/Right_MiddleFinger02/Right_MiddleFinger03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_MiddleFinger01/Right_MiddleFinger02/Right_MiddleFinger03/Right_MiddleFinger04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_Pinky01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_Pinky01/Right_Pinky02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_Pinky01/Right_Pinky02/Right_Pinky03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_Pinky01/Right_Pinky02/Right_Pinky03/Right_Pinky04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_RingFinger01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_RingFinger01/Right_RingFinger02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_RingFinger01/Right_RingFinger02/Right_RingFinger03
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Palm/Right_RingFinger01/Right_RingFinger02/Right_RingFinger03/Right_RingFinger04
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Thumb01
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Thumb01/Right_Thumb02
+        weight: 1
+      - path: Home/Right_Shoulder/Right_Elbow/Right_Wrist_Start/Right_Wrist_End/Right_Thumb01/Right_Thumb02/Right_Thumb03
+        weight: 1
+      - path: Left
+        weight: 1
+      - path: Right
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
