@@ -1,0 +1,14 @@
+MadeOf Wood
+
+PhongEnvironment
+{
+	DiffuseMap C:/Users/Luis/Desktop/characters/zombiedog/models/zombiedog02_d.tga
+	NormalMap C:/Users/Luis/Desktop/characters/zombiedog/models/zombiedog01_n.tga
+	SpecularMap C:/Users/Luis/Desktop/characters/zombiedog/models/zombiedog01_s.tga
+	UseSpecular
+	SpecularExponent 73.403
+	SpecularColor 1 1 1
+	SpecularIntensity 0.108965
+	Fresnel 0.607361
+}
+
